@@ -407,25 +407,23 @@
 		"StateURL": "https://en.wikipedia.org/wiki/AmericanSamoa",
 		"Counties": [
 			{
-				"CountyName": "Eastern District[12]",
+				"CountyName": "Eastern Distric",
 				"Population": 23030
 			},
 			{
-				"CountyName": "Manu"a
-				District [ 12 ]
-				",
+				"CountyName": "Manua District",
 				"Population": 1143
 			},
 			{
-				"CountyName": "Rose Atoll (Rose Island)[12]",
+				"CountyName": "Rose Atoll (Rose Island)",
 				"Population": 0
 			},
 			{
-				"CountyName": "Swains Island[12]",
+				"CountyName": "Swains Island",
 				"Population": 17
 			},
 			{
-				"CountyName": "Western District[12]",
+				"CountyName": "Western District",
 				"Population": 31329
 			}
 		]
@@ -1312,35 +1310,35 @@
 		"StateURL": "https://en.wikipedia.org/wiki/Connecticut",
 		"Counties": [
 			{
-				"CountyName": "Fairfield[n]",
+				"CountyName": "Fairfield",
 				"Population": 939904
 			},
 			{
-				"CountyName": "Hartford[n]",
+				"CountyName": "Hartford",
 				"Population": 898272
 			},
 			{
-				"CountyName": "Litchfield[n]",
+				"CountyName": "Litchfield",
 				"Population": 186924
 			},
 			{
-				"CountyName": "Middlesex[n]",
+				"CountyName": "Middlesex",
 				"Population": 165562
 			},
 			{
-				"CountyName": "New Haven[n]",
+				"CountyName": "New Haven",
 				"Population": 862287
 			},
 			{
-				"CountyName": "New London[n]",
+				"CountyName": "New London",
 				"Population": 274150
 			},
 			{
-				"CountyName": "Tolland[n]",
+				"CountyName": "Tolland",
 				"Population": 151377
 			},
 			{
-				"CountyName": "Windham[n]",
+				"CountyName": "Windham",
 				"Population": 117604
 			}
 		]
@@ -3590,7 +3588,7 @@
 				"Population": 42836
 			},
 			{
-				"CountyName": "O"Brien",
+				"CountyName": "O'Brien",
 				"Population": 14044
 			},
 			{
@@ -5021,15 +5019,15 @@
 				"Population": 1016677
 			},
 			{
-				"CountyName": "Prince George"s",
+				"CountyName": "Prince George's",
 				"Population": 890081
 			},
 			{
-				"CountyName": "Queen Anne"s",
+				"CountyName": "Queen Anne's",
 				"Population": 48517
 			},
 			{
-				"CountyName": "St. Mary"s",
+				"CountyName": "St. Mary's",
 				"Population": 109633
 			},
 			{
@@ -5068,7 +5066,7 @@
 				"Population": 214990
 			},
 			{
-				"CountyName": "Berkshire[n]",
+				"CountyName": "Berkshire",
 				"Population": 129585
 			},
 			{
@@ -5080,23 +5078,23 @@
 				"Population": 17256
 			},
 			{
-				"CountyName": "Essex[n]",
+				"CountyName": "Essex",
 				"Population": 762550
 			},
 			{
-				"CountyName": "Franklin[n]",
+				"CountyName": "Franklin",
 				"Population": 71221
 			},
 			{
-				"CountyName": "Hampden[n]",
+				"CountyName": "Hampden",
 				"Population": 467319
 			},
 			{
-				"CountyName": "Hampshire[n]",
+				"CountyName": "Hampshire",
 				"Population": 159596
 			},
 			{
-				"CountyName": "Middlesex[n]",
+				"CountyName": "Middlesex",
 				"Population": 1552802
 			},
 			{
@@ -5112,11 +5110,11 @@
 				"Population": 501915
 			},
 			{
-				"CountyName": "Suffolk[n]",
+				"CountyName": "Suffolk",
 				"Population": 755503
 			},
 			{
-				"CountyName": "Worcester[n]",
+				"CountyName": "Worcester",
 				"Population": 809106
 			}
 		]
