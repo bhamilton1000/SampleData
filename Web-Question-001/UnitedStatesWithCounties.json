@@ -280,123 +280,123 @@
 		"StateURL": "https://en.wikipedia.org/wiki/Alaska",
 		"Counties": [
 			{
-				"CountyName": "Aleutians East Borough[d]",
+				"CountyName": "Aleutians East Borough",
 				"Population": 3092
 			},
 			{
-				"CountyName": "Aleutians West Census Area[e]",
+				"CountyName": "Aleutians West Census Area",
 				"Population": 5511
 			},
 			{
-				"CountyName": "Anchorage, Municipality of[d][f]",
+				"CountyName": "Anchorage, Municipality of",
 				"Population": 300950
 			},
 			{
-				"CountyName": "Bethel Census Area[e]",
+				"CountyName": "Bethel Census Area",
 				"Population": 17758
 			},
 			{
-				"CountyName": "Bristol Bay Borough[d]",
+				"CountyName": "Bristol Bay Borough",
 				"Population": 960
 			},
 			{
-				"CountyName": "Chugach Census Area[e]",
+				"CountyName": "Chugach Census Area",
 				"Population": 6734
 			},
 			{
-				"CountyName": "Copper River Census Area[e]",
+				"CountyName": "Copper River Census Area",
 				"Population": 2764
 			},
 			{
-				"CountyName": "Denali Borough[d]",
+				"CountyName": "Denali Borough",
 				"Population": 1867
 			},
 			{
-				"CountyName": "Dillingham Census Area[e]",
+				"CountyName": "Dillingham Census Area",
 				"Population": 5010
 			},
 			{
-				"CountyName": "Fairbanks North Star Borough[d]",
+				"CountyName": "Fairbanks North Star Borough",
 				"Population": 100436
 			},
 			{
-				"CountyName": "Haines Borough[d]",
+				"CountyName": "Haines Borough",
 				"Population": 2592
 			},
 			{
-				"CountyName": "Hoonah–Angoon Census Area[e]",
+				"CountyName": "Hoonah–Angoon Census Area",
 				"Population": 2145
 			},
 			{
-				"CountyName": "Juneau, City and Borough of[d][g]",
+				"CountyName": "Juneau, City and Borough of[g]",
 				"Population": 32660
 			},
 			{
-				"CountyName": "Kenai Peninsula Borough[d]",
+				"CountyName": "Kenai Peninsula Borough",
 				"Population": 57147
 			},
 			{
-				"CountyName": "Ketchikan Gateway Borough[d]",
+				"CountyName": "Ketchikan Gateway Borough",
 				"Population": 13729
 			},
 			{
-				"CountyName": "Kodiak Island Borough[d]",
+				"CountyName": "Kodiak Island Borough",
 				"Population": 14135
 			},
 			{
-				"CountyName": "Kusilvak Census Area[e]",
+				"CountyName": "Kusilvak Census Area",
 				"Population": 7977
 			},
 			{
-				"CountyName": "Lake and Peninsula Borough[d]",
+				"CountyName": "Lake and Peninsula Borough",
 				"Population": 1648
 			},
 			{
-				"CountyName": "Matanuska-Susitna Borough[d]",
+				"CountyName": "Matanuska-Susitna Borough",
 				"Population": 95192
 			},
 			{
-				"CountyName": "Nome Census Area[e]",
+				"CountyName": "Nome Census Area",
 				"Population": 9892
 			},
 			{
-				"CountyName": "North Slope Borough[d]",
+				"CountyName": "North Slope Borough",
 				"Population": 9686
 			},
 			{
-				"CountyName": "Northwest Arctic Borough[d]",
+				"CountyName": "Northwest Arctic Borough",
 				"Population": 7685
 			},
 			{
-				"CountyName": "Petersburg Borough[d][h]",
+				"CountyName": "Petersburg Borough[h]",
 				"Population": 3774
 			},
 			{
-				"CountyName": "Prince of Wales – Hyder Census Area[e]",
+				"CountyName": "Prince of Wales – Hyder Census Area",
 				"Population": 5786
 			},
 			{
-				"CountyName": "Sitka, City and Borough of[d][i]",
+				"CountyName": "Sitka, City and Borough of[i]",
 				"Population": 9020
 			},
 			{
-				"CountyName": "Skagway, Municipality of[d]",
+				"CountyName": "Skagway, Municipality of",
 				"Population": 995
 			},
 			{
-				"CountyName": "Southeast Fairbanks Census Area[e]",
+				"CountyName": "Southeast Fairbanks Census Area",
 				"Population": 6985
 			},
 			{
-				"CountyName": "Wrangell, City and Borough of[d]",
+				"CountyName": "Wrangell, City and Borough of",
 				"Population": 2400
 			},
 			{
-				"CountyName": "Yakutat, City and Borough of[d][j]",
+				"CountyName": "Yakutat, City and Borough of[j]",
 				"Population": 642
 			},
 			{
-				"CountyName": "Yukon–Koyukuk Census Area[e]",
+				"CountyName": "Yukon–Koyukuk Census Area",
 				"Population": 5695
 			}
 		]
@@ -956,7 +956,7 @@
 				"Population": 3211252
 			},
 			{
-				"CountyName": "San Francisco, City and County of[k]",
+				"CountyName": "San Francisco, City and County of",
 				"Population": 837442
 			},
 			{
@@ -1075,7 +1075,7 @@
 				"Population": 310048
 			},
 			{
-				"CountyName": "Broomfield, City and County of[l]",
+				"CountyName": "Broomfield, City and County of",
 				"Population": 59471
 			},
 			{
@@ -2312,7 +2312,7 @@
 				"Population": 190821
 			},
 			{
-				"CountyName": "Honolulu, City and County of[p]",
+				"CountyName": "Honolulu, City and County of",
 				"Population": 983429
 			},
 			{
@@ -6619,174 +6619,6763 @@
 		"StateAbbr": "MT",
 		"StateName": "Montana",
 		"StateURL": "https://en.wikipedia.org/wiki/Montana",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Beaverhead",
+				"Population": 9341
+			},
+			{
+				"CountyName": "Big Horn",
+				"Population": 13042
+			},
+			{
+				"CountyName": "Blaine",
+				"Population": 6604
+			},
+			{
+				"CountyName": "Broadwater",
+				"Population": 5692
+			},
+			{
+				"CountyName": "Carbon",
+				"Population": 10340
+			},
+			{
+				"CountyName": "Carter",
+				"Population": 1174
+			},
+			{
+				"CountyName": "Cascade",
+				"Population": 82384
+			},
+			{
+				"CountyName": "Chouteau",
+				"Population": 5849
+			},
+			{
+				"CountyName": "Custer",
+				"Population": 11951
+			},
+			{
+				"CountyName": "Daniels",
+				"Population": 1791
+			},
+			{
+				"CountyName": "Dawson",
+				"Population": 9445
+			},
+			{
+				"CountyName": "Deer Lodge",
+				"Population": 9329
+			},
+			{
+				"CountyName": "Fallon",
+				"Population": 3079
+			},
+			{
+				"CountyName": "Fergus",
+				"Population": 11501
+			},
+			{
+				"CountyName": "Flathead",
+				"Population": 93068
+			},
+			{
+				"CountyName": "Gallatin",
+				"Population": 94720
+			},
+			{
+				"CountyName": "Garfield",
+				"Population": 1290
+			},
+			{
+				"CountyName": "Glacier",
+				"Population": 13739
+			},
+			{
+				"CountyName": "Golden Valley",
+				"Population": 859
+			},
+			{
+				"CountyName": "Granite",
+				"Population": 3138
+			},
+			{
+				"CountyName": "Hill",
+				"Population": 16568
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 11512
+			},
+			{
+				"CountyName": "Judith Basin",
+				"Population": 2016
+			},
+			{
+				"CountyName": "Lake",
+				"Population": 29017
+			},
+			{
+				"CountyName": "Lewis and Clark",
+				"Population": 65338
+			},
+			{
+				"CountyName": "Liberty",
+				"Population": 2369
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 19460
+			},
+			{
+				"CountyName": "McCone",
+				"Population": 1709
+			},
+			{
+				"CountyName": "Madison",
+				"Population": 7712
+			},
+			{
+				"CountyName": "Meagher",
+				"Population": 1937
+			},
+			{
+				"CountyName": "Mineral",
+				"Population": 4275
+			},
+			{
+				"CountyName": "Missoula",
+				"Population": 111807
+			},
+			{
+				"CountyName": "Musselshell",
+				"Population": 4629
+			},
+			{
+				"CountyName": "Park",
+				"Population": 15682
+			},
+			{
+				"CountyName": "Petroleum",
+				"Population": 506
+			},
+			{
+				"CountyName": "Phillips",
+				"Population": 4179
+			},
+			{
+				"CountyName": "Pondera",
+				"Population": 6211
+			},
+			{
+				"CountyName": "Powder River",
+				"Population": 1748
+			},
+			{
+				"CountyName": "Powell",
+				"Population": 6993
+			},
+			{
+				"CountyName": "Prairie",
+				"Population": 1179
+			},
+			{
+				"CountyName": "Ravalli",
+				"Population": 40823
+			},
+			{
+				"CountyName": "Richland",
+				"Population": 11214
+			},
+			{
+				"CountyName": "Roosevelt",
+				"Population": 11125
+			},
+			{
+				"CountyName": "Rosebud",
+				"Population": 9329
+			},
+			{
+				"CountyName": "Sanders",
+				"Population": 11363
+			},
+			{
+				"CountyName": "Sheridan",
+				"Population": 3668
+			},
+			{
+				"CountyName": "Silver Bow",
+				"Population": 34523
+			},
+			{
+				"CountyName": "Stillwater",
+				"Population": 9318
+			},
+			{
+				"CountyName": "Sweet Grass",
+				"Population": 3669
+			},
+			{
+				"CountyName": "Teton",
+				"Population": 6065
+			},
+			{
+				"CountyName": "Toole",
+				"Population": 5138
+			},
+			{
+				"CountyName": "Treasure",
+				"Population": 700
+			},
+			{
+				"CountyName": "Valley",
+				"Population": 7630
+			},
+			{
+				"CountyName": "Wheatland",
+				"Population": 2134
+			},
+			{
+				"CountyName": "Wibaux",
+				"Population": 1121
+			},
+			{
+				"CountyName": "Yellowstone",
+				"Population": 154162
+			}
+		]
 	},
 	{
 		"StateAbbr": "NE",
 		"StateName": "Nebraska",
 		"StateURL": "https://en.wikipedia.org/wiki/Nebraska",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Adams",
+				"Population": 31610
+			},
+			{
+				"CountyName": "Antelope",
+				"Population": 6456
+			},
+			{
+				"CountyName": "Arthur",
+				"Population": 458
+			},
+			{
+				"CountyName": "Banner",
+				"Population": 759
+			},
+			{
+				"CountyName": "Blaine",
+				"Population": 482
+			},
+			{
+				"CountyName": "Boone",
+				"Population": 5388
+			},
+			{
+				"CountyName": "Box Butte",
+				"Population": 11305
+			},
+			{
+				"CountyName": "Boyd",
+				"Population": 2032
+			},
+			{
+				"CountyName": "Brown",
+				"Population": 2926
+			},
+			{
+				"CountyName": "Buffalo",
+				"Population": 47893
+			},
+			{
+				"CountyName": "Burt",
+				"Population": 6574
+			},
+			{
+				"CountyName": "Butler",
+				"Population": 8312
+			},
+			{
+				"CountyName": "Cass",
+				"Population": 25357
+			},
+			{
+				"CountyName": "Cedar",
+				"Population": 8711
+			},
+			{
+				"CountyName": "Chase",
+				"Population": 4000
+			},
+			{
+				"CountyName": "Cherry",
+				"Population": 5788
+			},
+			{
+				"CountyName": "Cheyenne",
+				"Population": 10091
+			},
+			{
+				"CountyName": "Clay",
+				"Population": 6392
+			},
+			{
+				"CountyName": "Colfax",
+				"Population": 10425
+			},
+			{
+				"CountyName": "Cuming",
+				"Population": 8996
+			},
+			{
+				"CountyName": "Custer",
+				"Population": 10792
+			},
+			{
+				"CountyName": "Dakota",
+				"Population": 20947
+			},
+			{
+				"CountyName": "Dawes",
+				"Population": 9088
+			},
+			{
+				"CountyName": "Dawson",
+				"Population": 24207
+			},
+			{
+				"CountyName": "Deuel",
+				"Population": 1937
+			},
+			{
+				"CountyName": "Dixon",
+				"Population": 5851
+			},
+			{
+				"CountyName": "Dodge",
+				"Population": 36515
+			},
+			{
+				"CountyName": "Douglas",
+				"Population": 537256
+			},
+			{
+				"CountyName": "Dundy",
+				"Population": 1981
+			},
+			{
+				"CountyName": "Fillmore",
+				"Population": 5698
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 3085
+			},
+			{
+				"CountyName": "Frontier",
+				"Population": 2709
+			},
+			{
+				"CountyName": "Furnas",
+				"Population": 4865
+			},
+			{
+				"CountyName": "Gage",
+				"Population": 21864
+			},
+			{
+				"CountyName": "Garden",
+				"Population": 1902
+			},
+			{
+				"CountyName": "Garfield",
+				"Population": 2035
+			},
+			{
+				"CountyName": "Gosper",
+				"Population": 1972
+			},
+			{
+				"CountyName": "Grant",
+				"Population": 633
+			},
+			{
+				"CountyName": "Greeley",
+				"Population": 2494
+			},
+			{
+				"CountyName": "Hall",
+				"Population": 60720
+			},
+			{
+				"CountyName": "Hamilton",
+				"Population": 9112
+			},
+			{
+				"CountyName": "Harlan",
+				"Population": 3513
+			},
+			{
+				"CountyName": "Hayes",
+				"Population": 976
+			},
+			{
+				"CountyName": "Hitchcock",
+				"Population": 2872
+			},
+			{
+				"CountyName": "Holt",
+				"Population": 10449
+			},
+			{
+				"CountyName": "Hooker",
+				"Population": 738
+			},
+			{
+				"CountyName": "Howard",
+				"Population": 6355
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 7560
+			},
+			{
+				"CountyName": "Johnson",
+				"Population": 5144
+			},
+			{
+				"CountyName": "Kearney",
+				"Population": 6548
+			},
+			{
+				"CountyName": "Keith",
+				"Population": 8130
+			},
+			{
+				"CountyName": "Keya Paha",
+				"Population": 790
+			},
+			{
+				"CountyName": "Kimball",
+				"Population": 3702
+			},
+			{
+				"CountyName": "Knox",
+				"Population": 8565
+			},
+			{
+				"CountyName": "Lancaster",
+				"Population": 297036
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 36051
+			},
+			{
+				"CountyName": "Logan",
+				"Population": 763
+			},
+			{
+				"CountyName": "Loup",
+				"Population": 576
+			},
+			{
+				"CountyName": "McPherson",
+				"Population": 526
+			},
+			{
+				"CountyName": "Madison",
+				"Population": 35278
+			},
+			{
+				"CountyName": "Merrick",
+				"Population": 7802
+			},
+			{
+				"CountyName": "Morrill",
+				"Population": 4908
+			},
+			{
+				"CountyName": "Nance",
+				"Population": 3623
+			},
+			{
+				"CountyName": "Nemaha",
+				"Population": 7157
+			},
+			{
+				"CountyName": "Nuckolls",
+				"Population": 4413
+			},
+			{
+				"CountyName": "Otoe",
+				"Population": 15752
+			},
+			{
+				"CountyName": "Pawnee",
+				"Population": 2709
+			},
+			{
+				"CountyName": "Perkins",
+				"Population": 2921
+			},
+			{
+				"CountyName": "Phelps",
+				"Population": 9213
+			},
+			{
+				"CountyName": "Pierce",
+				"Population": 7150
+			},
+			{
+				"CountyName": "Platte",
+				"Population": 32505
+			},
+			{
+				"CountyName": "Polk",
+				"Population": 5275
+			},
+			{
+				"CountyName": "Red Willow",
+				"Population": 11006
+			},
+			{
+				"CountyName": "Richardson",
+				"Population": 8125
+			},
+			{
+				"CountyName": "Rock",
+				"Population": 1411
+			},
+			{
+				"CountyName": "Saline",
+				"Population": 14416
+			},
+			{
+				"CountyName": "Sarpy",
+				"Population": 169331
+			},
+			{
+				"CountyName": "Saunders",
+				"Population": 20929
+			},
+			{
+				"CountyName": "Scotts Bluff",
+				"Population": 36848
+			},
+			{
+				"CountyName": "Seward",
+				"Population": 17089
+			},
+			{
+				"CountyName": "Sheridan",
+				"Population": 5251
+			},
+			{
+				"CountyName": "Sherman",
+				"Population": 3106
+			},
+			{
+				"CountyName": "Sioux",
+				"Population": 1313
+			},
+			{
+				"CountyName": "Stanton",
+				"Population": 6133
+			},
+			{
+				"CountyName": "Thayer",
+				"Population": 5189
+			},
+			{
+				"CountyName": "Thomas",
+				"Population": 699
+			},
+			{
+				"CountyName": "Thurston",
+				"Population": 6895
+			},
+			{
+				"CountyName": "Valley",
+				"Population": 4193
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 20223
+			},
+			{
+				"CountyName": "Wayne",
+				"Population": 9411
+			},
+			{
+				"CountyName": "Webster",
+				"Population": 3688
+			},
+			{
+				"CountyName": "Wheeler",
+				"Population": 759
+			},
+			{
+				"CountyName": "York",
+				"Population": 13883
+			}
+		]
 	},
 	{
 		"StateAbbr": "NV",
 		"StateName": "Nevada",
 		"StateURL": "https://en.wikipedia.org/wiki/Nevada",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Churchill",
+				"Population": 24063
+			},
+			{
+				"CountyName": "Clark",
+				"Population": 2027868
+			},
+			{
+				"CountyName": "Douglas",
+				"Population": 47118
+			},
+			{
+				"CountyName": "Elko",
+				"Population": 52384
+			},
+			{
+				"CountyName": "Esmeralda",
+				"Population": 832
+			},
+			{
+				"CountyName": "Eureka",
+				"Population": 2076
+			},
+			{
+				"CountyName": "Humboldt",
+				"Population": 17363
+			},
+			{
+				"CountyName": "Lander",
+				"Population": 6032
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 5245
+			},
+			{
+				"CountyName": "Lyon",
+				"Population": 51557
+			},
+			{
+				"CountyName": "Mineral",
+				"Population": 4614
+			},
+			{
+				"CountyName": "Nye",
+				"Population": 42297
+			},
+			{
+				"CountyName": "Pershing",
+				"Population": 6877
+			},
+			{
+				"CountyName": "Storey",
+				"Population": 3942
+			},
+			{
+				"CountyName": "Washoe",
+				"Population": 433731
+			},
+			{
+				"CountyName": "White Pine",
+				"Population": 10057
+			},
+			{
+				"CountyName": "Carson City, Consolidated Municipality of[u]",
+				"Population": 54080
+			}
+		]
 	},
 	{
 		"StateAbbr": "NH",
 		"StateName": "New Hampshire",
 		"StateURL": "https://en.wikipedia.org/wiki/NewHampshire",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Belknap",
+				"Population": 60179
+			},
+			{
+				"CountyName": "Carroll",
+				"Population": 47499
+			},
+			{
+				"CountyName": "Cheshire",
+				"Population": 76610
+			},
+			{
+				"CountyName": "Coos",
+				"Population": 31997
+			},
+			{
+				"CountyName": "Grafton",
+				"Population": 89629
+			},
+			{
+				"CountyName": "Hillsborough",
+				"Population": 403985
+			},
+			{
+				"CountyName": "Merrimack",
+				"Population": 146849
+			},
+			{
+				"CountyName": "Rockingham",
+				"Population": 299134
+			},
+			{
+				"CountyName": "Strafford",
+				"Population": 124593
+			},
+			{
+				"CountyName": "Sullivan",
+				"Population": 42984
+			}
+		]
 	},
 	{
 		"StateAbbr": "NJ",
 		"StateName": "New Jersey",
 		"StateURL": "https://en.wikipedia.org/wiki/NewJersey",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Atlantic",
+				"Population": 275862
+			},
+			{
+				"CountyName": "Bergen",
+				"Population": 925328
+			},
+			{
+				"CountyName": "Burlington",
+				"Population": 450838
+			},
+			{
+				"CountyName": "Camden",
+				"Population": 512854
+			},
+			{
+				"CountyName": "Cape May",
+				"Population": 95897
+			},
+			{
+				"CountyName": "Cumberland",
+				"Population": 157332
+			},
+			{
+				"CountyName": "Essex",
+				"Population": 789565
+			},
+			{
+				"CountyName": "Gloucester",
+				"Population": 290265
+			},
+			{
+				"CountyName": "Hudson",
+				"Population": 660282
+			},
+			{
+				"CountyName": "Hunterdon",
+				"Population": 126250
+			},
+			{
+				"CountyName": "Mercer",
+				"Population": 370414
+			},
+			{
+				"CountyName": "Middlesex",
+				"Population": 828919
+			},
+			{
+				"CountyName": "Monmouth",
+				"Population": 629672
+			},
+			{
+				"CountyName": "Morris",
+				"Population": 499397
+			},
+			{
+				"CountyName": "Ocean",
+				"Population": 583414
+			},
+			{
+				"CountyName": "Passaic",
+				"Population": 505672
+			},
+			{
+				"CountyName": "Salem",
+				"Population": 65166
+			},
+			{
+				"CountyName": "Somerset",
+				"Population": 330585
+			},
+			{
+				"CountyName": "Sussex",
+				"Population": 145992
+			},
+			{
+				"CountyName": "Union",
+				"Population": 548256
+			},
+			{
+				"CountyName": "Warren",
+				"Population": 107379
+			}
+		]
 	},
 	{
 		"StateAbbr": "NM",
 		"StateName": "New Mexico",
 		"StateURL": "https://en.wikipedia.org/wiki/NewMexico",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Bernalillo",
+				"Population": 674221
+			},
+			{
+				"CountyName": "Catron",
+				"Population": 3607
+			},
+			{
+				"CountyName": "Chaves",
+				"Population": 65823
+			},
+			{
+				"CountyName": "Cibola",
+				"Population": 27335
+			},
+			{
+				"CountyName": "Colfax",
+				"Population": 13094
+			},
+			{
+				"CountyName": "Curry",
+				"Population": 50598
+			},
+			{
+				"CountyName": "De Baca",
+				"Population": 1907
+			},
+			{
+				"CountyName": "Doña Ana",
+				"Population": 213460
+			},
+			{
+				"CountyName": "Eddy",
+				"Population": 55471
+			},
+			{
+				"CountyName": "Grant",
+				"Population": 29328
+			},
+			{
+				"CountyName": "Guadalupe",
+				"Population": 4551
+			},
+			{
+				"CountyName": "Harding",
+				"Population": 693
+			},
+			{
+				"CountyName": "Hidalgo",
+				"Population": 4654
+			},
+			{
+				"CountyName": "Lea",
+				"Population": 68062
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 20105
+			},
+			{
+				"CountyName": "Los Alamos[v]",
+				"Population": 17798
+			},
+			{
+				"CountyName": "Luna",
+				"Population": 24659
+			},
+			{
+				"CountyName": "McKinley",
+				"Population": 73308
+			},
+			{
+				"CountyName": "Mora",
+				"Population": 4704
+			},
+			{
+				"CountyName": "Otero",
+				"Population": 65616
+			},
+			{
+				"CountyName": "Quay",
+				"Population": 8662
+			},
+			{
+				"CountyName": "Rio Arriba",
+				"Population": 40072
+			},
+			{
+				"CountyName": "Roosevelt",
+				"Population": 19955
+			},
+			{
+				"CountyName": "Sandoval",
+				"Population": 136575
+			},
+			{
+				"CountyName": "San Juan",
+				"Population": 126503
+			},
+			{
+				"CountyName": "San Miguel",
+				"Population": 28541
+			},
+			{
+				"CountyName": "Santa Fe",
+				"Population": 147423
+			},
+			{
+				"CountyName": "Sierra",
+				"Population": 11572
+			},
+			{
+				"CountyName": "Socorro",
+				"Population": 17584
+			},
+			{
+				"CountyName": "Taos",
+				"Population": 33035
+			},
+			{
+				"CountyName": "Torrance",
+				"Population": 15717
+			},
+			{
+				"CountyName": "Union",
+				"Population": 4370
+			},
+			{
+				"CountyName": "Valencia",
+				"Population": 76284
+			}
+		]
 	},
 	{
 		"StateAbbr": "NY",
 		"StateName": "New York",
 		"StateURL": "https://en.wikipedia.org/wiki/NewYork",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Albany",
+				"Population": 306945
+			},
+			{
+				"CountyName": "Allegany",
+				"Population": 48109
+			},
+			{
+				"CountyName": "Bronx",
+				"Population": 1418733
+			},
+			{
+				"CountyName": "Broome",
+				"Population": 197534
+			},
+			{
+				"CountyName": "Cattaraugus",
+				"Population": 78892
+			},
+			{
+				"CountyName": "Cayuga",
+				"Population": 79477
+			},
+			{
+				"CountyName": "Chautauqua",
+				"Population": 133080
+			},
+			{
+				"CountyName": "Chemung",
+				"Population": 88506
+			},
+			{
+				"CountyName": "Chenango",
+				"Population": 49503
+			},
+			{
+				"CountyName": "Clinton",
+				"Population": 81591
+			},
+			{
+				"CountyName": "Columbia",
+				"Population": 62243
+			},
+			{
+				"CountyName": "Cortland",
+				"Population": 48976
+			},
+			{
+				"CountyName": "Delaware",
+				"Population": 46722
+			},
+			{
+				"CountyName": "Dutchess",
+				"Population": 296916
+			},
+			{
+				"CountyName": "Erie",
+				"Population": 919866
+			},
+			{
+				"CountyName": "Essex",
+				"Population": 38762
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 51688
+			},
+			{
+				"CountyName": "Fulton",
+				"Population": 54586
+			},
+			{
+				"CountyName": "Genesee",
+				"Population": 59454
+			},
+			{
+				"CountyName": "Greene",
+				"Population": 48455
+			},
+			{
+				"CountyName": "Hamilton",
+				"Population": 4773
+			},
+			{
+				"CountyName": "Herkimer",
+				"Population": 64181
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 119504
+			},
+			{
+				"CountyName": "Kings",
+				"Population": 2592149
+			},
+			{
+				"CountyName": "Lewis",
+				"Population": 27149
+			},
+			{
+				"CountyName": "Livingston",
+				"Population": 64705
+			},
+			{
+				"CountyName": "Madison",
+				"Population": 72382
+			},
+			{
+				"CountyName": "Monroe",
+				"Population": 749606
+			},
+			{
+				"CountyName": "Montgomery",
+				"Population": 49897
+			},
+			{
+				"CountyName": "Nassau",
+				"Population": 1352146
+			},
+			{
+				"CountyName": "New York",
+				"Population": 1626159
+			},
+			{
+				"CountyName": "Niagara",
+				"Population": 214249
+			},
+			{
+				"CountyName": "Oneida",
+				"Population": 233585
+			},
+			{
+				"CountyName": "Onondaga",
+				"Population": 468387
+			},
+			{
+				"CountyName": "Ontario",
+				"Population": 109103
+			},
+			{
+				"CountyName": "Orange",
+				"Population": 375592
+			},
+			{
+				"CountyName": "Orleans",
+				"Population": 42235
+			},
+			{
+				"CountyName": "Oswego",
+				"Population": 121165
+			},
+			{
+				"CountyName": "Otsego",
+				"Population": 61683
+			},
+			{
+				"CountyName": "Putnam",
+				"Population": 99645
+			},
+			{
+				"CountyName": "Queens",
+				"Population": 2296175
+			},
+			{
+				"CountyName": "Rensselaer",
+				"Population": 159918
+			},
+			{
+				"CountyName": "Richmond",
+				"Population": 472621
+			},
+			{
+				"CountyName": "Rockland",
+				"Population": 320903
+			},
+			{
+				"CountyName": "St. Lawrence",
+				"Population": 111963
+			},
+			{
+				"CountyName": "Saratoga",
+				"Population": 223865
+			},
+			{
+				"CountyName": "Schenectady",
+				"Population": 155333
+			},
+			{
+				"CountyName": "Schoharie",
+				"Population": 31844
+			},
+			{
+				"CountyName": "Schuyler",
+				"Population": 18460
+			},
+			{
+				"CountyName": "Seneca",
+				"Population": 35409
+			},
+			{
+				"CountyName": "Steuben",
+				"Population": 98650
+			},
+			{
+				"CountyName": "Suffolk",
+				"Population": 1499738
+			},
+			{
+				"CountyName": "Sullivan",
+				"Population": 76665
+			},
+			{
+				"CountyName": "Tioga",
+				"Population": 50243
+			},
+			{
+				"CountyName": "Tompkins",
+				"Population": 103617
+			},
+			{
+				"CountyName": "Ulster",
+				"Population": 180998
+			},
+			{
+				"CountyName": "Warren",
+				"Population": 65337
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 63093
+			},
+			{
+				"CountyName": "Wayne",
+				"Population": 92473
+			},
+			{
+				"CountyName": "Westchester",
+				"Population": 968802
+			},
+			{
+				"CountyName": "Wyoming",
+				"Population": 41531
+			},
+			{
+				"CountyName": "Yates",
+				"Population": 25156
+			}
+		]
 	},
 	{
 		"StateAbbr": "NC",
 		"StateName": "North Carolina",
 		"StateURL": "https://en.wikipedia.org/wiki/NorthCarolina",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Alamance",
+				"Population": 154378
+			},
+			{
+				"CountyName": "Alexander",
+				"Population": 36930
+			},
+			{
+				"CountyName": "Alleghany",
+				"Population": 10939
+			},
+			{
+				"CountyName": "Anson",
+				"Population": 26161
+			},
+			{
+				"CountyName": "Ashe",
+				"Population": 27151
+			},
+			{
+				"CountyName": "Avery",
+				"Population": 17713
+			},
+			{
+				"CountyName": "Beaufort",
+				"Population": 47464
+			},
+			{
+				"CountyName": "Bertie",
+				"Population": 20344
+			},
+			{
+				"CountyName": "Bladen",
+				"Population": 34843
+			},
+			{
+				"CountyName": "Brunswick",
+				"Population": 115301
+			},
+			{
+				"CountyName": "Buncombe",
+				"Population": 247912
+			},
+			{
+				"CountyName": "Burke",
+				"Population": 89842
+			},
+			{
+				"CountyName": "Cabarrus",
+				"Population": 187226
+			},
+			{
+				"CountyName": "Caldwell",
+				"Population": 81990
+			},
+			{
+				"CountyName": "Camden",
+				"Population": 10187
+			},
+			{
+				"CountyName": "Carteret",
+				"Population": 68434
+			},
+			{
+				"CountyName": "Caswell",
+				"Population": 23190
+			},
+			{
+				"CountyName": "Catawba",
+				"Population": 154810
+			},
+			{
+				"CountyName": "Chatham",
+				"Population": 66817
+			},
+			{
+				"CountyName": "Cherokee",
+				"Population": 27218
+			},
+			{
+				"CountyName": "Chowan",
+				"Population": 14726
+			},
+			{
+				"CountyName": "Clay",
+				"Population": 10584
+			},
+			{
+				"CountyName": "Cleveland",
+				"Population": 97047
+			},
+			{
+				"CountyName": "Columbus",
+				"Population": 57246
+			},
+			{
+				"CountyName": "Craven",
+				"Population": 104489
+			},
+			{
+				"CountyName": "Cumberland",
+				"Population": 325871
+			},
+			{
+				"CountyName": "Currituck",
+				"Population": 24396
+			},
+			{
+				"CountyName": "Dare",
+				"Population": 35019
+			},
+			{
+				"CountyName": "Davidson",
+				"Population": 163420
+			},
+			{
+				"CountyName": "Davie",
+				"Population": 41554
+			},
+			{
+				"CountyName": "Duplin",
+				"Population": 60084
+			},
+			{
+				"CountyName": "Durham",
+				"Population": 288133
+			},
+			{
+				"CountyName": "Edgecombe",
+				"Population": 55574
+			},
+			{
+				"CountyName": "Forsyth",
+				"Population": 361220
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 62260
+			},
+			{
+				"CountyName": "Gaston",
+				"Population": 209420
+			},
+			{
+				"CountyName": "Gates",
+				"Population": 11650
+			},
+			{
+				"CountyName": "Graham",
+				"Population": 8736
+			},
+			{
+				"CountyName": "Granville",
+				"Population": 58275
+			},
+			{
+				"CountyName": "Greene",
+				"Population": 21232
+			},
+			{
+				"CountyName": "Guilford",
+				"Population": 506610
+			},
+			{
+				"CountyName": "Halifax",
+				"Population": 53453
+			},
+			{
+				"CountyName": "Harnett",
+				"Population": 124987
+			},
+			{
+				"CountyName": "Haywood",
+				"Population": 59183
+			},
+			{
+				"CountyName": "Henderson",
+				"Population": 109540
+			},
+			{
+				"CountyName": "Hertford",
+				"Population": 24431
+			},
+			{
+				"CountyName": "Hoke",
+				"Population": 51322
+			},
+			{
+				"CountyName": "Hyde",
+				"Population": 5721
+			},
+			{
+				"CountyName": "Iredell",
+				"Population": 164517
+			},
+			{
+				"CountyName": "Jackson",
+				"Population": 40919
+			},
+			{
+				"CountyName": "Johnston",
+				"Population": 177967
+			},
+			{
+				"CountyName": "Jones",
+				"Population": 10215
+			},
+			{
+				"CountyName": "Lee",
+				"Population": 60266
+			},
+			{
+				"CountyName": "Lenoir",
+				"Population": 58914
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 79740
+			},
+			{
+				"CountyName": "McDowell",
+				"Population": 44961
+			},
+			{
+				"CountyName": "Macon",
+				"Population": 33857
+			},
+			{
+				"CountyName": "Madison",
+				"Population": 21022
+			},
+			{
+				"CountyName": "Martin",
+				"Population": 23699
+			},
+			{
+				"CountyName": "Mecklenburg",
+				"Population": 1076837
+			},
+			{
+				"CountyName": "Mitchell",
+				"Population": 15328
+			},
+			{
+				"CountyName": "Montgomery",
+				"Population": 27571
+			},
+			{
+				"CountyName": "Moore",
+				"Population": 91587
+			},
+			{
+				"CountyName": "Nash",
+				"Population": 95093
+			},
+			{
+				"CountyName": "New Hanover",
+				"Population": 213267
+			},
+			{
+				"CountyName": "Northampton",
+				"Population": 20839
+			},
+			{
+				"CountyName": "Onslow",
+				"Population": 185220
+			},
+			{
+				"CountyName": "Orange",
+				"Population": 140352
+			},
+			{
+				"CountyName": "Pamlico",
+				"Population": 12953
+			},
+			{
+				"CountyName": "Pasquotank",
+				"Population": 39981
+			},
+			{
+				"CountyName": "Pender",
+				"Population": 55334
+			},
+			{
+				"CountyName": "Perquimans",
+				"Population": 13601
+			},
+			{
+				"CountyName": "Person",
+				"Population": 39276
+			},
+			{
+				"CountyName": "Pitt",
+				"Population": 174263
+			},
+			{
+				"CountyName": "Polk",
+				"Population": 20411
+			},
+			{
+				"CountyName": "Randolph",
+				"Population": 142577
+			},
+			{
+				"CountyName": "Richmond",
+				"Population": 46405
+			},
+			{
+				"CountyName": "Robeson",
+				"Population": 134841
+			},
+			{
+				"CountyName": "Rockingham",
+				"Population": 91878
+			},
+			{
+				"CountyName": "Rowan",
+				"Population": 138323
+			},
+			{
+				"CountyName": "Rutherford",
+				"Population": 66956
+			},
+			{
+				"CountyName": "Sampson",
+				"Population": 64150
+			},
+			{
+				"CountyName": "Scotland",
+				"Population": 36025
+			},
+			{
+				"CountyName": "Stanly",
+				"Population": 60635
+			},
+			{
+				"CountyName": "Stokes",
+				"Population": 46588
+			},
+			{
+				"CountyName": "Surry",
+				"Population": 73050
+			},
+			{
+				"CountyName": "Swain",
+				"Population": 14058
+			},
+			{
+				"CountyName": "Transylvania",
+				"Population": 32903
+			},
+			{
+				"CountyName": "Tyrrell",
+				"Population": 4109
+			},
+			{
+				"CountyName": "Union",
+				"Population": 212756
+			},
+			{
+				"CountyName": "Vance",
+				"Population": 44808
+			},
+			{
+				"CountyName": "Wake",
+				"Population": 1072203
+			},
+			{
+				"CountyName": "Warren",
+				"Population": 20575
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 12722
+			},
+			{
+				"CountyName": "Watauga",
+				"Population": 52372
+			},
+			{
+				"CountyName": "Wayne",
+				"Population": 124583
+			},
+			{
+				"CountyName": "Wilkes",
+				"Population": 69023
+			},
+			{
+				"CountyName": "Wilson",
+				"Population": 81667
+			},
+			{
+				"CountyName": "Yadkin",
+				"Population": 38038
+			},
+			{
+				"CountyName": "Yancey",
+				"Population": 17566
+			}
+		]
 	},
 	{
 		"StateAbbr": "ND",
 		"StateName": "North Dakota",
 		"StateURL": "https://en.wikipedia.org/wiki/NorthDakota",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Adams",
+				"Population": 2360
+			},
+			{
+				"CountyName": "Barnes",
+				"Population": 11190
+			},
+			{
+				"CountyName": "Benson",
+				"Population": 6877
+			},
+			{
+				"CountyName": "Billings",
+				"Population": 874
+			},
+			{
+				"CountyName": "Bottineau",
+				"Population": 6736
+			},
+			{
+				"CountyName": "Bowman",
+				"Population": 3214
+			},
+			{
+				"CountyName": "Burke",
+				"Population": 2306
+			},
+			{
+				"CountyName": "Burleigh",
+				"Population": 88457
+			},
+			{
+				"CountyName": "Cass",
+				"Population": 162829
+			},
+			{
+				"CountyName": "Cavalier",
+				"Population": 3896
+			},
+			{
+				"CountyName": "Dickey",
+				"Population": 5248
+			},
+			{
+				"CountyName": "Divide",
+				"Population": 2314
+			},
+			{
+				"CountyName": "Dunn",
+				"Population": 4162
+			},
+			{
+				"CountyName": "Eddy",
+				"Population": 2404
+			},
+			{
+				"CountyName": "Emmons",
+				"Population": 3486
+			},
+			{
+				"CountyName": "Foster",
+				"Population": 3366
+			},
+			{
+				"CountyName": "Golden Valley",
+				"Population": 1823
+			},
+			{
+				"CountyName": "Grand Forks",
+				"Population": 69179
+			},
+			{
+				"CountyName": "Grant",
+				"Population": 2377
+			},
+			{
+				"CountyName": "Griggs",
+				"Population": 2296
+			},
+			{
+				"CountyName": "Hettinger",
+				"Population": 2660
+			},
+			{
+				"CountyName": "Kidder",
+				"Population": 2428
+			},
+			{
+				"CountyName": "LaMoure",
+				"Population": 4166
+			},
+			{
+				"CountyName": "Logan",
+				"Population": 1946
+			},
+			{
+				"CountyName": "McHenry",
+				"Population": 5922
+			},
+			{
+				"CountyName": "McIntosh",
+				"Population": 2754
+			},
+			{
+				"CountyName": "McKenzie",
+				"Population": 9314
+			},
+			{
+				"CountyName": "McLean",
+				"Population": 9517
+			},
+			{
+				"CountyName": "Mercer",
+				"Population": 8592
+			},
+			{
+				"CountyName": "Morton",
+				"Population": 28990
+			},
+			{
+				"CountyName": "Mountrail",
+				"Population": 9376
+			},
+			{
+				"CountyName": "Nelson",
+				"Population": 3095
+			},
+			{
+				"CountyName": "Oliver",
+				"Population": 1874
+			},
+			{
+				"CountyName": "Pembina",
+				"Population": 7181
+			},
+			{
+				"CountyName": "Pierce",
+				"Population": 4451
+			},
+			{
+				"CountyName": "Ramsey",
+				"Population": 11554
+			},
+			{
+				"CountyName": "Ransom",
+				"Population": 5516
+			},
+			{
+				"CountyName": "Renville",
+				"Population": 2608
+			},
+			{
+				"CountyName": "Richland",
+				"Population": 16339
+			},
+			{
+				"CountyName": "Rolette",
+				"Population": 14582
+			},
+			{
+				"CountyName": "Sargent",
+				"Population": 3890
+			},
+			{
+				"CountyName": "Sheridan",
+				"Population": 1304
+			},
+			{
+				"CountyName": "Sioux",
+				"Population": 4430
+			},
+			{
+				"CountyName": "Slope",
+				"Population": 761
+			},
+			{
+				"CountyName": "Stark",
+				"Population": 28212
+			},
+			{
+				"CountyName": "Steele",
+				"Population": 1960
+			},
+			{
+				"CountyName": "Stutsman",
+				"Population": 21120
+			},
+			{
+				"CountyName": "Towner",
+				"Population": 2317
+			},
+			{
+				"CountyName": "Traill",
+				"Population": 8245
+			},
+			{
+				"CountyName": "Walsh",
+				"Population": 11104
+			},
+			{
+				"CountyName": "Ward",
+				"Population": 67990
+			},
+			{
+				"CountyName": "Wells",
+				"Population": 4206
+			},
+			{
+				"CountyName": "Williams",
+				"Population": 29595
+			}
+		]
 	},
 	{
 		"StateAbbr": "MP",
 		"StateName": "Northern Mariana Islands",
 		"StateURL": "https://en.wikipedia.org/wiki/NorthernMarianaIslands",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Northern Islands Municipality",
+				"Population": 0
+			},
+			{
+				"CountyName": "Rota Municipality",
+				"Population": 2477
+			},
+			{
+				"CountyName": "Saipan Municipality",
+				"Population": 48220
+			},
+			{
+				"CountyName": "Tinian Municipality",
+				"Population": 3136
+			}
+		]
 	},
 	{
 		"StateAbbr": "OH",
 		"StateName": "Ohio",
 		"StateURL": "https://en.wikipedia.org/wiki/Ohio",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Adams",
+				"Population": 28105
+			},
+			{
+				"CountyName": "Allen",
+				"Population": 105298
+			},
+			{
+				"CountyName": "Ashland",
+				"Population": 53043
+			},
+			{
+				"CountyName": "Ashtabula",
+				"Population": 99811
+			},
+			{
+				"CountyName": "Athens",
+				"Population": 64681
+			},
+			{
+				"CountyName": "Auglaize",
+				"Population": 45920
+			},
+			{
+				"CountyName": "Belmont",
+				"Population": 69571
+			},
+			{
+				"CountyName": "Brown",
+				"Population": 44264
+			},
+			{
+				"CountyName": "Butler",
+				"Population": 371272
+			},
+			{
+				"CountyName": "Carroll",
+				"Population": 28275
+			},
+			{
+				"CountyName": "Champaign",
+				"Population": 39455
+			},
+			{
+				"CountyName": "Clark",
+				"Population": 136167
+			},
+			{
+				"CountyName": "Clermont",
+				"Population": 200218
+			},
+			{
+				"CountyName": "Clinton",
+				"Population": 41945
+			},
+			{
+				"CountyName": "Columbiana",
+				"Population": 105893
+			},
+			{
+				"CountyName": "Coshocton",
+				"Population": 36760
+			},
+			{
+				"CountyName": "Crawford",
+				"Population": 42808
+			},
+			{
+				"CountyName": "Cuyahoga",
+				"Population": 1263154
+			},
+			{
+				"CountyName": "Darke",
+				"Population": 52376
+			},
+			{
+				"CountyName": "Defiance",
+				"Population": 38532
+			},
+			{
+				"CountyName": "Delaware",
+				"Population": 184979
+			},
+			{
+				"CountyName": "Erie",
+				"Population": 76048
+			},
+			{
+				"CountyName": "Fairfield",
+				"Population": 148867
+			},
+			{
+				"CountyName": "Fayette",
+				"Population": 28800
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 1212263
+			},
+			{
+				"CountyName": "Fulton",
+				"Population": 42488
+			},
+			{
+				"CountyName": "Gallia",
+				"Population": 30621
+			},
+			{
+				"CountyName": "Geauga",
+				"Population": 93972
+			},
+			{
+				"CountyName": "Greene",
+				"Population": 163204
+			},
+			{
+				"CountyName": "Guernsey",
+				"Population": 39636
+			},
+			{
+				"CountyName": "Hamilton",
+				"Population": 804520
+			},
+			{
+				"CountyName": "Hancock",
+				"Population": 75773
+			},
+			{
+				"CountyName": "Hardin",
+				"Population": 31641
+			},
+			{
+				"CountyName": "Harrison",
+				"Population": 15622
+			},
+			{
+				"CountyName": "Henry",
+				"Population": 28092
+			},
+			{
+				"CountyName": "Highland",
+				"Population": 43299
+			},
+			{
+				"CountyName": "Hocking",
+				"Population": 28665
+			},
+			{
+				"CountyName": "Holmes",
+				"Population": 43593
+			},
+			{
+				"CountyName": "Huron",
+				"Population": 58889
+			},
+			{
+				"CountyName": "Jackson",
+				"Population": 32783
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 67964
+			},
+			{
+				"CountyName": "Knox",
+				"Population": 60810
+			},
+			{
+				"CountyName": "Lake",
+				"Population": 229857
+			},
+			{
+				"CountyName": "Lawrence",
+				"Population": 61917
+			},
+			{
+				"CountyName": "Licking",
+				"Population": 168375
+			},
+			{
+				"CountyName": "Logan",
+				"Population": 45481
+			},
+			{
+				"CountyName": "Lorain",
+				"Population": 302827
+			},
+			{
+				"CountyName": "Lucas",
+				"Population": 436393
+			},
+			{
+				"CountyName": "Madison",
+				"Population": 43277
+			},
+			{
+				"CountyName": "Mahoning",
+				"Population": 233869
+			},
+			{
+				"CountyName": "Marion",
+				"Population": 65905
+			},
+			{
+				"CountyName": "Medina",
+				"Population": 174915
+			},
+			{
+				"CountyName": "Meigs",
+				"Population": 23496
+			},
+			{
+				"CountyName": "Mercer",
+				"Population": 40784
+			},
+			{
+				"CountyName": "Miami",
+				"Population": 103439
+			},
+			{
+				"CountyName": "Monroe",
+				"Population": 14585
+			},
+			{
+				"CountyName": "Montgomery",
+				"Population": 535846
+			},
+			{
+				"CountyName": "Morgan",
+				"Population": 14904
+			},
+			{
+				"CountyName": "Morrow",
+				"Population": 35033
+			},
+			{
+				"CountyName": "Muskingum",
+				"Population": 85231
+			},
+			{
+				"CountyName": "Noble",
+				"Population": 14628
+			},
+			{
+				"CountyName": "Ottawa",
+				"Population": 41153
+			},
+			{
+				"CountyName": "Paulding",
+				"Population": 19254
+			},
+			{
+				"CountyName": "Perry",
+				"Population": 35997
+			},
+			{
+				"CountyName": "Pickaway",
+				"Population": 56304
+			},
+			{
+				"CountyName": "Pike",
+				"Population": 28367
+			},
+			{
+				"CountyName": "Portage",
+				"Population": 163862
+			},
+			{
+				"CountyName": "Preble",
+				"Population": 41732
+			},
+			{
+				"CountyName": "Putnam",
+				"Population": 34088
+			},
+			{
+				"CountyName": "Richland",
+				"Population": 121773
+			},
+			{
+				"CountyName": "Ross",
+				"Population": 77910
+			},
+			{
+				"CountyName": "Sandusky",
+				"Population": 60098
+			},
+			{
+				"CountyName": "Scioto",
+				"Population": 78153
+			},
+			{
+				"CountyName": "Seneca",
+				"Population": 55914
+			},
+			{
+				"CountyName": "Shelby",
+				"Population": 49192
+			},
+			{
+				"CountyName": "Stark",
+				"Population": 375432
+			},
+			{
+				"CountyName": "Summit",
+				"Population": 541824
+			},
+			{
+				"CountyName": "Trumbull",
+				"Population": 206442
+			},
+			{
+				"CountyName": "Tuscarawas",
+				"Population": 92672
+			},
+			{
+				"CountyName": "Union",
+				"Population": 53306
+			},
+			{
+				"CountyName": "Van Wert",
+				"Population": 28459
+			},
+			{
+				"CountyName": "Vinton",
+				"Population": 13276
+			},
+			{
+				"CountyName": "Warren",
+				"Population": 219169
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 61310
+			},
+			{
+				"CountyName": "Wayne",
+				"Population": 115071
+			},
+			{
+				"CountyName": "Williams",
+				"Population": 37500
+			},
+			{
+				"CountyName": "Wood",
+				"Population": 129264
+			},
+			{
+				"CountyName": "Wyandot",
+				"Population": 22447
+			}
+		]
 	},
 	{
 		"StateAbbr": "OK",
 		"StateName": "Oklahoma",
 		"StateURL": "https://en.wikipedia.org/wiki/Oklahoma",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Adair",
+				"Population": 22194
+			},
+			{
+				"CountyName": "Alfalfa",
+				"Population": 5847
+			},
+			{
+				"CountyName": "Atoka",
+				"Population": 13898
+			},
+			{
+				"CountyName": "Beaver",
+				"Population": 5566
+			},
+			{
+				"CountyName": "Beckham",
+				"Population": 23637
+			},
+			{
+				"CountyName": "Blaine",
+				"Population": 9720
+			},
+			{
+				"CountyName": "Bryan",
+				"Population": 44244
+			},
+			{
+				"CountyName": "Caddo",
+				"Population": 29594
+			},
+			{
+				"CountyName": "Canadian",
+				"Population": 126123
+			},
+			{
+				"CountyName": "Carter",
+				"Population": 48491
+			},
+			{
+				"CountyName": "Cherokee",
+				"Population": 48017
+			},
+			{
+				"CountyName": "Choctaw",
+				"Population": 15045
+			},
+			{
+				"CountyName": "Cimarron",
+				"Population": 2335
+			},
+			{
+				"CountyName": "Cleveland",
+				"Population": 269340
+			},
+			{
+				"CountyName": "Coal",
+				"Population": 5867
+			},
+			{
+				"CountyName": "Comanche",
+				"Population": 124937
+			},
+			{
+				"CountyName": "Cotton",
+				"Population": 6152
+			},
+			{
+				"CountyName": "Craig",
+				"Population": 14672
+			},
+			{
+				"CountyName": "Creek",
+				"Population": 70470
+			},
+			{
+				"CountyName": "Custer",
+				"Population": 29377
+			},
+			{
+				"CountyName": "Delaware",
+				"Population": 41377
+			},
+			{
+				"CountyName": "Dewey",
+				"Population": 4844
+			},
+			{
+				"CountyName": "Ellis",
+				"Population": 4170
+			},
+			{
+				"CountyName": "Garfield",
+				"Population": 62267
+			},
+			{
+				"CountyName": "Garvin",
+				"Population": 27334
+			},
+			{
+				"CountyName": "Grady",
+				"Population": 53685
+			},
+			{
+				"CountyName": "Grant",
+				"Population": 4528
+			},
+			{
+				"CountyName": "Greer",
+				"Population": 6171
+			},
+			{
+				"CountyName": "Harmon",
+				"Population": 2869
+			},
+			{
+				"CountyName": "Harper",
+				"Population": 3813
+			},
+			{
+				"CountyName": "Haskell",
+				"Population": 13052
+			},
+			{
+				"CountyName": "Hughes",
+				"Population": 13823
+			},
+			{
+				"CountyName": "Jackson",
+				"Population": 26088
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 6432
+			},
+			{
+				"CountyName": "Johnston",
+				"Population": 10990
+			},
+			{
+				"CountyName": "Kay",
+				"Population": 45633
+			},
+			{
+				"CountyName": "Kingfisher",
+				"Population": 15276
+			},
+			{
+				"CountyName": "Kiowa",
+				"Population": 9341
+			},
+			{
+				"CountyName": "Latimer",
+				"Population": 10775
+			},
+			{
+				"CountyName": "Le Flore",
+				"Population": 49774
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 34351
+			},
+			{
+				"CountyName": "Logan",
+				"Population": 44422
+			},
+			{
+				"CountyName": "Love",
+				"Population": 9742
+			},
+			{
+				"CountyName": "McClain",
+				"Population": 36511
+			},
+			{
+				"CountyName": "McCurtain",
+				"Population": 33065
+			},
+			{
+				"CountyName": "McIntosh",
+				"Population": 20493
+			},
+			{
+				"CountyName": "Major",
+				"Population": 7683
+			},
+			{
+				"CountyName": "Marshall",
+				"Population": 15988
+			},
+			{
+				"CountyName": "Mayes",
+				"Population": 40804
+			},
+			{
+				"CountyName": "Murray",
+				"Population": 13712
+			},
+			{
+				"CountyName": "Muskogee",
+				"Population": 70303
+			},
+			{
+				"CountyName": "Noble",
+				"Population": 11446
+			},
+			{
+				"CountyName": "Nowata",
+				"Population": 10555
+			},
+			{
+				"CountyName": "Okfuskee",
+				"Population": 12377
+			},
+			{
+				"CountyName": "Oklahoma",
+				"Population": 755245
+			},
+			{
+				"CountyName": "Okmulgee",
+				"Population": 39438
+			},
+			{
+				"CountyName": "Osage",
+				"Population": 47987
+			},
+			{
+				"CountyName": "Ottawa",
+				"Population": 32245
+			},
+			{
+				"CountyName": "Pawnee",
+				"Population": 16513
+			},
+			{
+				"CountyName": "Payne",
+				"Population": 79066
+			},
+			{
+				"CountyName": "Pittsburg",
+				"Population": 44703
+			},
+			{
+				"CountyName": "Pontotoc",
+				"Population": 37992
+			},
+			{
+				"CountyName": "Pottawatomie",
+				"Population": 71158
+			},
+			{
+				"CountyName": "Pushmataha",
+				"Population": 11233
+			},
+			{
+				"CountyName": "Roger Mills",
+				"Population": 3743
+			},
+			{
+				"CountyName": "Rogers",
+				"Population": 89044
+			},
+			{
+				"CountyName": "Seminole",
+				"Population": 25426
+			},
+			{
+				"CountyName": "Sequoyah",
+				"Population": 41218
+			},
+			{
+				"CountyName": "Stephens",
+				"Population": 44919
+			},
+			{
+				"CountyName": "Texas",
+				"Population": 22081
+			},
+			{
+				"CountyName": "Tillman",
+				"Population": 7711
+			},
+			{
+				"CountyName": "Tulsa",
+				"Population": 622409
+			},
+			{
+				"CountyName": "Wagoner",
+				"Population": 75700
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 51577
+			},
+			{
+				"CountyName": "Washita",
+				"Population": 11678
+			},
+			{
+				"CountyName": "Woods",
+				"Population": 9041
+			},
+			{
+				"CountyName": "Woodward",
+				"Population": 21221
+			}
+		]
 	},
 	{
 		"StateAbbr": "OR",
 		"StateName": "Oregon",
 		"StateURL": "https://en.wikipedia.org/wiki/Oregon",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Baker",
+				"Population": 16018
+			},
+			{
+				"CountyName": "Benton",
+				"Population": 86591
+			},
+			{
+				"CountyName": "Clackamas",
+				"Population": 388263
+			},
+			{
+				"CountyName": "Clatsop",
+				"Population": 37244
+			},
+			{
+				"CountyName": "Columbia",
+				"Population": 49344
+			},
+			{
+				"CountyName": "Coos",
+				"Population": 62282
+			},
+			{
+				"CountyName": "Crook",
+				"Population": 20815
+			},
+			{
+				"CountyName": "Curry",
+				"Population": 22339
+			},
+			{
+				"CountyName": "Deschutes",
+				"Population": 165954
+			},
+			{
+				"CountyName": "Douglas",
+				"Population": 106940
+			},
+			{
+				"CountyName": "Gilliam",
+				"Population": 1947
+			},
+			{
+				"CountyName": "Grant",
+				"Population": 7283
+			},
+			{
+				"CountyName": "Harney",
+				"Population": 7146
+			},
+			{
+				"CountyName": "Hood River",
+				"Population": 22675
+			},
+			{
+				"CountyName": "Jackson",
+				"Population": 208545
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 21145
+			},
+			{
+				"CountyName": "Josephine",
+				"Population": 83306
+			},
+			{
+				"CountyName": "Klamath",
+				"Population": 65910
+			},
+			{
+				"CountyName": "Lake",
+				"Population": 7820
+			},
+			{
+				"CountyName": "Lane",
+				"Population": 356212
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 46350
+			},
+			{
+				"CountyName": "Linn",
+				"Population": 118765
+			},
+			{
+				"CountyName": "Malheur",
+				"Population": 30479
+			},
+			{
+				"CountyName": "Marion",
+				"Population": 323614
+			},
+			{
+				"CountyName": "Morrow",
+				"Population": 11336
+			},
+			{
+				"CountyName": "Multnomah",
+				"Population": 766135
+			},
+			{
+				"CountyName": "Polk",
+				"Population": 76794
+			},
+			{
+				"CountyName": "Sherman",
+				"Population": 1731
+			},
+			{
+				"CountyName": "Tillamook",
+				"Population": 25317
+			},
+			{
+				"CountyName": "Umatilla",
+				"Population": 76720
+			},
+			{
+				"CountyName": "Union",
+				"Population": 25652
+			},
+			{
+				"CountyName": "Wallowa",
+				"Population": 6814
+			},
+			{
+				"CountyName": "Wasco",
+				"Population": 25477
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 554996
+			},
+			{
+				"CountyName": "Wheeler",
+				"Population": 1381
+			},
+			{
+				"CountyName": "Yamhill",
+				"Population": 100725
+			}
+		]
 	},
 	{
 		"StateAbbr": "PA",
 		"StateName": "Pennsylvania",
 		"StateURL": "https://en.wikipedia.org/wiki/Pennsylvania",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Adams",
+				"Population": 101546
+			},
+			{
+				"CountyName": "Allegheny",
+				"Population": 1231527
+			},
+			{
+				"CountyName": "Armstrong",
+				"Population": 68107
+			},
+			{
+				"CountyName": "Beaver",
+				"Population": 170115
+			},
+			{
+				"CountyName": "Bedford",
+				"Population": 49055
+			},
+			{
+				"CountyName": "Berks",
+				"Population": 413521
+			},
+			{
+				"CountyName": "Blair",
+				"Population": 126314
+			},
+			{
+				"CountyName": "Bradford",
+				"Population": 62316
+			},
+			{
+				"CountyName": "Bucks",
+				"Population": 626976
+			},
+			{
+				"CountyName": "Butler",
+				"Population": 185476
+			},
+			{
+				"CountyName": "Cambria",
+				"Population": 140499
+			},
+			{
+				"CountyName": "Cameron",
+				"Population": 4886
+			},
+			{
+				"CountyName": "Carbon",
+				"Population": 64786
+			},
+			{
+				"CountyName": "Centre",
+				"Population": 155403
+			},
+			{
+				"CountyName": "Chester",
+				"Population": 509468
+			},
+			{
+				"CountyName": "Clarion",
+				"Population": 39155
+			},
+			{
+				"CountyName": "Clearfield",
+				"Population": 81174
+			},
+			{
+				"CountyName": "Clinton",
+				"Population": 39954
+			},
+			{
+				"CountyName": "Columbia",
+				"Population": 66797
+			},
+			{
+				"CountyName": "Crawford",
+				"Population": 87376
+			},
+			{
+				"CountyName": "Cumberland",
+				"Population": 241212
+			},
+			{
+				"CountyName": "Dauphin",
+				"Population": 270937
+			},
+			{
+				"CountyName": "Delaware",
+				"Population": 561973
+			},
+			{
+				"CountyName": "Elk",
+				"Population": 31479
+			},
+			{
+				"CountyName": "Erie",
+				"Population": 280294
+			},
+			{
+				"CountyName": "Fayette",
+				"Population": 134999
+			},
+			{
+				"CountyName": "Forest",
+				"Population": 7631
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 152085
+			},
+			{
+				"CountyName": "Fulton",
+				"Population": 14670
+			},
+			{
+				"CountyName": "Greene",
+				"Population": 37838
+			},
+			{
+				"CountyName": "Huntingdon",
+				"Population": 45694
+			},
+			{
+				"CountyName": "Indiana",
+				"Population": 87745
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 44966
+			},
+			{
+				"CountyName": "Juniata",
+				"Population": 24768
+			},
+			{
+				"CountyName": "Lackawanna",
+				"Population": 213931
+			},
+			{
+				"CountyName": "Lancaster",
+				"Population": 529600
+			},
+			{
+				"CountyName": "Lawrence",
+				"Population": 89333
+			},
+			{
+				"CountyName": "Lebanon",
+				"Population": 135486
+			},
+			{
+				"CountyName": "Lehigh",
+				"Population": 355092
+			},
+			{
+				"CountyName": "Luzerne",
+				"Population": 320103
+			},
+			{
+				"CountyName": "Lycoming",
+				"Population": 116754
+			},
+			{
+				"CountyName": "McKean",
+				"Population": 42979
+			},
+			{
+				"CountyName": "Mercer",
+				"Population": 115195
+			},
+			{
+				"CountyName": "Mifflin",
+				"Population": 46616
+			},
+			{
+				"CountyName": "Monroe",
+				"Population": 167148
+			},
+			{
+				"CountyName": "Montgomery",
+				"Population": 812376
+			},
+			{
+				"CountyName": "Montour",
+				"Population": 18541
+			},
+			{
+				"CountyName": "Northampton",
+				"Population": 299791
+			},
+			{
+				"CountyName": "Northumberland",
+				"Population": 94076
+			},
+			{
+				"CountyName": "Perry",
+				"Population": 45562
+			},
+			{
+				"CountyName": "Philadelphia[w]",
+				"Population": 1553165
+			},
+			{
+				"CountyName": "Pike",
+				"Population": 56591
+			},
+			{
+				"CountyName": "Potter",
+				"Population": 17497
+			},
+			{
+				"CountyName": "Schuylkill",
+				"Population": 146920
+			},
+			{
+				"CountyName": "Snyder",
+				"Population": 39865
+			},
+			{
+				"CountyName": "Somerset",
+				"Population": 76520
+			},
+			{
+				"CountyName": "Sullivan",
+				"Population": 6351
+			},
+			{
+				"CountyName": "Susquehanna",
+				"Population": 42286
+			},
+			{
+				"CountyName": "Tioga",
+				"Population": 42463
+			},
+			{
+				"CountyName": "Union",
+				"Population": 44867
+			},
+			{
+				"CountyName": "Venango",
+				"Population": 53907
+			},
+			{
+				"CountyName": "Warren",
+				"Population": 40885
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 208206
+			},
+			{
+				"CountyName": "Wayne",
+				"Population": 51548
+			},
+			{
+				"CountyName": "Westmoreland",
+				"Population": 362437
+			},
+			{
+				"CountyName": "Wyoming",
+				"Population": 28003
+			},
+			{
+				"CountyName": "York",
+				"Population": 438965
+			}
+		]
 	},
 	{
 		"StateAbbr": "PR",
 		"StateName": "Puerto Rico",
 		"StateURL": "https://en.wikipedia.org/wiki/PuertoRico",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Adjuntas Municipality",
+				"Population": 19483
+			},
+			{
+				"CountyName": "Aguada Municipality",
+				"Population": 41959
+			},
+			{
+				"CountyName": "Aguadilla Municipality",
+				"Population": 54582
+			},
+			{
+				"CountyName": "Aguas Buenas Municipality",
+				"Population": 28659
+			},
+			{
+				"CountyName": "Aibonito Municipality",
+				"Population": 25900
+			},
+			{
+				"CountyName": "Añasco Municipality",
+				"Population": 29261
+			},
+			{
+				"CountyName": "Arecibo Municipality",
+				"Population": 96440
+			},
+			{
+				"CountyName": "Arroyo Municipality",
+				"Population": 19575
+			},
+			{
+				"CountyName": "Barceloneta Municipality",
+				"Population": 24816
+			},
+			{
+				"CountyName": "Barranquitas Municipality",
+				"Population": 30318
+			},
+			{
+				"CountyName": "Bayamón Municipality",
+				"Population": 208116
+			},
+			{
+				"CountyName": "Cabo Rojo Municipality",
+				"Population": 50917
+			},
+			{
+				"CountyName": "Caguas Municipality",
+				"Population": 142893
+			},
+			{
+				"CountyName": "Camuy Municipality",
+				"Population": 35159
+			},
+			{
+				"CountyName": "Canóvanas Municipality",
+				"Population": 47648
+			},
+			{
+				"CountyName": "Carolina Municipality",
+				"Population": 176762
+			},
+			{
+				"CountyName": "Cataño Municipality",
+				"Population": 28140
+			},
+			{
+				"CountyName": "Cayey Municipality",
+				"Population": 48119
+			},
+			{
+				"CountyName": "Ceiba Municipality",
+				"Population": 13631
+			},
+			{
+				"CountyName": "Ciales Municipality",
+				"Population": 18782
+			},
+			{
+				"CountyName": "Cidra Municipality",
+				"Population": 43480
+			},
+			{
+				"CountyName": "Coamo Municipality",
+				"Population": 40512
+			},
+			{
+				"CountyName": "Comerío Municipality",
+				"Population": 20778
+			},
+			{
+				"CountyName": "Corozal Municipality",
+				"Population": 37142
+			},
+			{
+				"CountyName": "Culebra Municipality",
+				"Population": 1818
+			},
+			{
+				"CountyName": "Dorado Municipality",
+				"Population": 38165
+			},
+			{
+				"CountyName": "Fajardo Municipality",
+				"Population": 36993
+			},
+			{
+				"CountyName": "Florida Municipality",
+				"Population": 12680
+			},
+			{
+				"CountyName": "Guánica Municipality",
+				"Population": 19427
+			},
+			{
+				"CountyName": "Guayama Municipality",
+				"Population": 45362
+			},
+			{
+				"CountyName": "Guayanilla Municipality",
+				"Population": 21581
+			},
+			{
+				"CountyName": "Guaynabo Municipality",
+				"Population": 97924
+			},
+			{
+				"CountyName": "Gurabo Municipality",
+				"Population": 45369
+			},
+			{
+				"CountyName": "Hatillo Municipality",
+				"Population": 41953
+			},
+			{
+				"CountyName": "Hormigueros Municipality",
+				"Population": 17250
+			},
+			{
+				"CountyName": "Humacao Municipality",
+				"Population": 58466
+			},
+			{
+				"CountyName": "Isabela Municipality",
+				"Population": 45631
+			},
+			{
+				"CountyName": "Jayuya Municipality",
+				"Population": 16642
+			},
+			{
+				"CountyName": "Juana Díaz Municipality",
+				"Population": 79897
+			},
+			{
+				"CountyName": "Juncos Municipality",
+				"Population": 40290
+			},
+			{
+				"CountyName": "Lajas Municipality",
+				"Population": 25753
+			},
+			{
+				"CountyName": "Lares Municipality",
+				"Population": 30753
+			},
+			{
+				"CountyName": "Las Marías Municipality",
+				"Population": 9881
+			},
+			{
+				"CountyName": "Las Piedras Municipality",
+				"Population": 38675
+			},
+			{
+				"CountyName": "Loíza Municipality",
+				"Population": 30060
+			},
+			{
+				"CountyName": "Luquillo Municipality",
+				"Population": 20068
+			},
+			{
+				"CountyName": "Manatí Municipality",
+				"Population": 44113
+			},
+			{
+				"CountyName": "Maricao Municipality",
+				"Population": 6276
+			},
+			{
+				"CountyName": "Maunabo Municipality",
+				"Population": 12225
+			},
+			{
+				"CountyName": "Mayagüez Municipality",
+				"Population": 89080
+			},
+			{
+				"CountyName": "Moca Municipality",
+				"Population": 40109
+			},
+			{
+				"CountyName": "Morovis Municipality",
+				"Population": 32610
+			},
+			{
+				"CountyName": "Naguabo Municipality",
+				"Population": 26720
+			},
+			{
+				"CountyName": "Naranjito Municipality",
+				"Population": 30402
+			},
+			{
+				"CountyName": "Orocovis Municipality",
+				"Population": 23423
+			},
+			{
+				"CountyName": "Patillas Municipality",
+				"Population": 19277
+			},
+			{
+				"CountyName": "Peñuelas Municipality",
+				"Population": 24282
+			},
+			{
+				"CountyName": "Ponce Municipality",
+				"Population": 166327
+			},
+			{
+				"CountyName": "Quebradillas Municipality",
+				"Population": 25919
+			},
+			{
+				"CountyName": "Rincón Municipality",
+				"Population": 15200
+			},
+			{
+				"CountyName": "Río Grande Municipality",
+				"Population": 54304
+			},
+			{
+				"CountyName": "Sabana Grande Municipality",
+				"Population": 25265
+			},
+			{
+				"CountyName": "Salinas Municipality",
+				"Population": 31078
+			},
+			{
+				"CountyName": "San Germán Municipality",
+				"Population": 35527
+			},
+			{
+				"CountyName": "San Juan Municipality",
+				"Population": 395326
+			},
+			{
+				"CountyName": "San Lorenzo Municipality",
+				"Population": 41058
+			},
+			{
+				"CountyName": "San Sebastián Municipality",
+				"Population": 42430
+			},
+			{
+				"CountyName": "Santa Isabel Municipality",
+				"Population": 23274
+			},
+			{
+				"CountyName": "Toa Alta Municipality",
+				"Population": 74066
+			},
+			{
+				"CountyName": "Toa Baja Municipality",
+				"Population": 89609
+			},
+			{
+				"CountyName": "Trujillo Alto Municipality",
+				"Population": 74842
+			},
+			{
+				"CountyName": "Utuado Municipality",
+				"Population": 33149
+			},
+			{
+				"CountyName": "Vega Alta Municipality",
+				"Population": 39951
+			},
+			{
+				"CountyName": "Vega Baja Municipality",
+				"Population": 59662
+			},
+			{
+				"CountyName": "Vieques Municipality",
+				"Population": 9301
+			},
+			{
+				"CountyName": "Villalba Municipality",
+				"Population": 26073
+			},
+			{
+				"CountyName": "Yabucoa Municipality",
+				"Population": 37941
+			},
+			{
+				"CountyName": "Yauco Municipality",
+				"Population": 42043
+			}
+		]
 	},
 	{
 		"StateAbbr": "RI",
 		"StateName": "Rhode Island",
 		"StateURL": "https://en.wikipedia.org/wiki/RhodeIsland",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Bristol",
+				"Population": 49220
+			},
+			{
+				"CountyName": "Kent",
+				"Population": 165035
+			},
+			{
+				"CountyName": "Newport",
+				"Population": 82397
+			},
+			{
+				"CountyName": "Providence",
+				"Population": 628600
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 126259
+			}
+		]
 	},
 	{
 		"StateAbbr": "SC",
 		"StateName": "South Carolina",
 		"StateURL": "https://en.wikipedia.org/wiki/SouthCarolina",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Abbeville",
+				"Population": 25007
+			},
+			{
+				"CountyName": "Aiken",
+				"Population": 164176
+			},
+			{
+				"CountyName": "Allendale",
+				"Population": 9839
+			},
+			{
+				"CountyName": "Anderson",
+				"Population": 190641
+			},
+			{
+				"CountyName": "Bamberg",
+				"Population": 15430
+			},
+			{
+				"CountyName": "Barnwell",
+				"Population": 22119
+			},
+			{
+				"CountyName": "Beaufort",
+				"Population": 171838
+			},
+			{
+				"CountyName": "Berkeley",
+				"Population": 194020
+			},
+			{
+				"CountyName": "Calhoun",
+				"Population": 15055
+			},
+			{
+				"CountyName": "Charleston",
+				"Population": 372803
+			},
+			{
+				"CountyName": "Cherokee",
+				"Population": 55885
+			},
+			{
+				"CountyName": "Chester",
+				"Population": 32578
+			},
+			{
+				"CountyName": "Chesterfield",
+				"Population": 46197
+			},
+			{
+				"CountyName": "Clarendon",
+				"Population": 34355
+			},
+			{
+				"CountyName": "Colleton",
+				"Population": 37788
+			},
+			{
+				"CountyName": "Darlington",
+				"Population": 67935
+			},
+			{
+				"CountyName": "Dillon",
+				"Population": 31229
+			},
+			{
+				"CountyName": "Dorchester",
+				"Population": 145397
+			},
+			{
+				"CountyName": "Edgefield",
+				"Population": 26436
+			},
+			{
+				"CountyName": "Fairfield",
+				"Population": 23109
+			},
+			{
+				"CountyName": "Florence",
+				"Population": 138326
+			},
+			{
+				"CountyName": "Georgetown",
+				"Population": 60440
+			},
+			{
+				"CountyName": "Greenville",
+				"Population": 474266
+			},
+			{
+				"CountyName": "Greenwood",
+				"Population": 69723
+			},
+			{
+				"CountyName": "Hampton",
+				"Population": 20408
+			},
+			{
+				"CountyName": "Horry",
+				"Population": 289650
+			},
+			{
+				"CountyName": "Jasper",
+				"Population": 26629
+			},
+			{
+				"CountyName": "Kershaw",
+				"Population": 62516
+			},
+			{
+				"CountyName": "Lancaster",
+				"Population": 80458
+			},
+			{
+				"CountyName": "Laurens",
+				"Population": 66229
+			},
+			{
+				"CountyName": "Lee",
+				"Population": 18347
+			},
+			{
+				"CountyName": "Lexington",
+				"Population": 273752
+			},
+			{
+				"CountyName": "McCormick",
+				"Population": 9947
+			},
+			{
+				"CountyName": "Marion",
+				"Population": 32072
+			},
+			{
+				"CountyName": "Marlboro",
+				"Population": 28003
+			},
+			{
+				"CountyName": "Newberry",
+				"Population": 37521
+			},
+			{
+				"CountyName": "Oconee",
+				"Population": 75045
+			},
+			{
+				"CountyName": "Orangeburg",
+				"Population": 90942
+			},
+			{
+				"CountyName": "Pickens",
+				"Population": 119829
+			},
+			{
+				"CountyName": "Richland",
+				"Population": 399256
+			},
+			{
+				"CountyName": "Saluda",
+				"Population": 20091
+			},
+			{
+				"CountyName": "Spartanburg",
+				"Population": 290969
+			},
+			{
+				"CountyName": "Sumter",
+				"Population": 108123
+			},
+			{
+				"CountyName": "Union",
+				"Population": 28030
+			},
+			{
+				"CountyName": "Williamsburg",
+				"Population": 33067
+			},
+			{
+				"CountyName": "York",
+				"Population": 239363
+			}
+		]
 	},
 	{
 		"StateAbbr": "SD",
 		"StateName": "South Dakota",
 		"StateURL": "https://en.wikipedia.org/wiki/SouthDakota",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Aurora",
+				"Population": 2720
+			},
+			{
+				"CountyName": "Beadle",
+				"Population": 18080
+			},
+			{
+				"CountyName": "Bennett",
+				"Population": 3452
+			},
+			{
+				"CountyName": "Bon Homme",
+				"Population": 7046
+			},
+			{
+				"CountyName": "Brookings",
+				"Population": 32968
+			},
+			{
+				"CountyName": "Brown",
+				"Population": 37907
+			},
+			{
+				"CountyName": "Brule",
+				"Population": 5366
+			},
+			{
+				"CountyName": "Buffalo",
+				"Population": 2024
+			},
+			{
+				"CountyName": "Butte",
+				"Population": 10330
+			},
+			{
+				"CountyName": "Campbell",
+				"Population": 1334
+			},
+			{
+				"CountyName": "Charles Mix",
+				"Population": 9241
+			},
+			{
+				"CountyName": "Clark",
+				"Population": 3610
+			},
+			{
+				"CountyName": "Clay",
+				"Population": 13935
+			},
+			{
+				"CountyName": "Codington",
+				"Population": 27853
+			},
+			{
+				"CountyName": "Corson",
+				"Population": 4215
+			},
+			{
+				"CountyName": "Custer",
+				"Population": 8468
+			},
+			{
+				"CountyName": "Davison",
+				"Population": 19823
+			},
+			{
+				"CountyName": "Day",
+				"Population": 5596
+			},
+			{
+				"CountyName": "Deuel",
+				"Population": 4320
+			},
+			{
+				"CountyName": "Dewey",
+				"Population": 5586
+			},
+			{
+				"CountyName": "Douglas",
+				"Population": 3023
+			},
+			{
+				"CountyName": "Edmunds",
+				"Population": 4041
+			},
+			{
+				"CountyName": "Fall River",
+				"Population": 6839
+			},
+			{
+				"CountyName": "Faulk",
+				"Population": 2386
+			},
+			{
+				"CountyName": "Grant",
+				"Population": 7281
+			},
+			{
+				"CountyName": "Gregory",
+				"Population": 4242
+			},
+			{
+				"CountyName": "Haakon",
+				"Population": 1894
+			},
+			{
+				"CountyName": "Hamlin",
+				"Population": 5961
+			},
+			{
+				"CountyName": "Hand",
+				"Population": 3391
+			},
+			{
+				"CountyName": "Hanson",
+				"Population": 3405
+			},
+			{
+				"CountyName": "Harding",
+				"Population": 1262
+			},
+			{
+				"CountyName": "Hughes",
+				"Population": 17508
+			},
+			{
+				"CountyName": "Hutchinson",
+				"Population": 7145
+			},
+			{
+				"CountyName": "Hyde",
+				"Population": 1391
+			},
+			{
+				"CountyName": "Jackson",
+				"Population": 3216
+			},
+			{
+				"CountyName": "Jerauld",
+				"Population": 2066
+			},
+			{
+				"CountyName": "Jones",
+				"Population": 1001
+			},
+			{
+				"CountyName": "Kingsbury",
+				"Population": 5065
+			},
+			{
+				"CountyName": "Lake",
+				"Population": 12055
+			},
+			{
+				"CountyName": "Lawrence",
+				"Population": 24910
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 49858
+			},
+			{
+				"CountyName": "Lyman",
+				"Population": 3892
+			},
+			{
+				"CountyName": "McCook",
+				"Population": 5654
+			},
+			{
+				"CountyName": "McPherson",
+				"Population": 2457
+			},
+			{
+				"CountyName": "Marshall",
+				"Population": 4763
+			},
+			{
+				"CountyName": "Meade",
+				"Population": 27202
+			},
+			{
+				"CountyName": "Mellette",
+				"Population": 2081
+			},
+			{
+				"CountyName": "Miner",
+				"Population": 2333
+			},
+			{
+				"CountyName": "Minnehaha",
+				"Population": 179640
+			},
+			{
+				"CountyName": "Moody",
+				"Population": 6404
+			},
+			{
+				"CountyName": "Oglala Lakota",
+				"Population": 14118
+			},
+			{
+				"CountyName": "Pennington",
+				"Population": 105761
+			},
+			{
+				"CountyName": "Perkins",
+				"Population": 3037
+			},
+			{
+				"CountyName": "Potter",
+				"Population": 2394
+			},
+			{
+				"CountyName": "Roberts",
+				"Population": 10251
+			},
+			{
+				"CountyName": "Sanborn",
+				"Population": 2324
+			},
+			{
+				"CountyName": "Spink",
+				"Population": 6610
+			},
+			{
+				"CountyName": "Stanley",
+				"Population": 2981
+			},
+			{
+				"CountyName": "Sully",
+				"Population": 1437
+			},
+			{
+				"CountyName": "Todd",
+				"Population": 9982
+			},
+			{
+				"CountyName": "Tripp",
+				"Population": 5498
+			},
+			{
+				"CountyName": "Turner",
+				"Population": 8361
+			},
+			{
+				"CountyName": "Union",
+				"Population": 14829
+			},
+			{
+				"CountyName": "Walworth",
+				"Population": 5524
+			},
+			{
+				"CountyName": "Yankton",
+				"Population": 22696
+			},
+			{
+				"CountyName": "Ziebach",
+				"Population": 2834
+			}
+		]
 	},
 	{
 		"StateAbbr": "TN",
 		"StateName": "Tennessee",
 		"StateURL": "https://en.wikipedia.org/wiki/Tennessee",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Anderson",
+				"Population": 75542
+			},
+			{
+				"CountyName": "Bedford",
+				"Population": 45901
+			},
+			{
+				"CountyName": "Benton",
+				"Population": 16290
+			},
+			{
+				"CountyName": "Bledsoe",
+				"Population": 12841
+			},
+			{
+				"CountyName": "Blount",
+				"Population": 125099
+			},
+			{
+				"CountyName": "Bradley",
+				"Population": 101848
+			},
+			{
+				"CountyName": "Campbell",
+				"Population": 40238
+			},
+			{
+				"CountyName": "Cannon",
+				"Population": 13775
+			},
+			{
+				"CountyName": "Carroll",
+				"Population": 28513
+			},
+			{
+				"CountyName": "Carter",
+				"Population": 57338
+			},
+			{
+				"CountyName": "Cheatham",
+				"Population": 39492
+			},
+			{
+				"CountyName": "Chester",
+				"Population": 17321
+			},
+			{
+				"CountyName": "Claiborne",
+				"Population": 31560
+			},
+			{
+				"CountyName": "Clay",
+				"Population": 7774
+			},
+			{
+				"CountyName": "Cocke",
+				"Population": 35479
+			},
+			{
+				"CountyName": "Coffee",
+				"Population": 53357
+			},
+			{
+				"CountyName": "Crockett",
+				"Population": 14591
+			},
+			{
+				"CountyName": "Cumberland",
+				"Population": 57466
+			},
+			{
+				"CountyName": "Davidson",
+				"Population": 658602
+			},
+			{
+				"CountyName": "Decatur",
+				"Population": 11661
+			},
+			{
+				"CountyName": "DeKalb",
+				"Population": 19164
+			},
+			{
+				"CountyName": "Dickson",
+				"Population": 50266
+			},
+			{
+				"CountyName": "Dyer",
+				"Population": 38213
+			},
+			{
+				"CountyName": "Fayette",
+				"Population": 38690
+			},
+			{
+				"CountyName": "Fentress",
+				"Population": 17909
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 41129
+			},
+			{
+				"CountyName": "Gibson",
+				"Population": 49457
+			},
+			{
+				"CountyName": "Giles",
+				"Population": 28746
+			},
+			{
+				"CountyName": "Grainger",
+				"Population": 22702
+			},
+			{
+				"CountyName": "Greene",
+				"Population": 68267
+			},
+			{
+				"CountyName": "Grundy",
+				"Population": 13498
+			},
+			{
+				"CountyName": "Hamblen",
+				"Population": 63074
+			},
+			{
+				"CountyName": "Hamilton",
+				"Population": 348673
+			},
+			{
+				"CountyName": "Hancock",
+				"Population": 6679
+			},
+			{
+				"CountyName": "Hardeman",
+				"Population": 26306
+			},
+			{
+				"CountyName": "Hardin",
+				"Population": 26034
+			},
+			{
+				"CountyName": "Hawkins",
+				"Population": 56800
+			},
+			{
+				"CountyName": "Haywood",
+				"Population": 18224
+			},
+			{
+				"CountyName": "Henderson",
+				"Population": 28048
+			},
+			{
+				"CountyName": "Henry",
+				"Population": 32210
+			},
+			{
+				"CountyName": "Hickman",
+				"Population": 24267
+			},
+			{
+				"CountyName": "Houston",
+				"Population": 8292
+			},
+			{
+				"CountyName": "Humphreys",
+				"Population": 18243
+			},
+			{
+				"CountyName": "Jackson",
+				"Population": 11517
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 52123
+			},
+			{
+				"CountyName": "Johnson",
+				"Population": 17977
+			},
+			{
+				"CountyName": "Knox",
+				"Population": 444622
+			},
+			{
+				"CountyName": "Lake",
+				"Population": 7731
+			},
+			{
+				"CountyName": "Lauderdale",
+				"Population": 27795
+			},
+			{
+				"CountyName": "Lawrence",
+				"Population": 41990
+			},
+			{
+				"CountyName": "Lewis",
+				"Population": 11961
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 33633
+			},
+			{
+				"CountyName": "Loudon",
+				"Population": 50448
+			},
+			{
+				"CountyName": "McMinn",
+				"Population": 52341
+			},
+			{
+				"CountyName": "McNairy",
+				"Population": 26140
+			},
+			{
+				"CountyName": "Macon",
+				"Population": 22701
+			},
+			{
+				"CountyName": "Madison",
+				"Population": 98733
+			},
+			{
+				"CountyName": "Marion",
+				"Population": 28374
+			},
+			{
+				"CountyName": "Marshall",
+				"Population": 31130
+			},
+			{
+				"CountyName": "Maury",
+				"Population": 83761
+			},
+			{
+				"CountyName": "Meigs",
+				"Population": 11649
+			},
+			{
+				"CountyName": "Monroe",
+				"Population": 45265
+			},
+			{
+				"CountyName": "Montgomery",
+				"Population": 184119
+			},
+			{
+				"CountyName": "Moore",
+				"Population": 6301
+			},
+			{
+				"CountyName": "Morgan",
+				"Population": 21915
+			},
+			{
+				"CountyName": "Obion",
+				"Population": 31131
+			},
+			{
+				"CountyName": "Overton",
+				"Population": 22075
+			},
+			{
+				"CountyName": "Perry",
+				"Population": 7869
+			},
+			{
+				"CountyName": "Pickett",
+				"Population": 5090
+			},
+			{
+				"CountyName": "Polk",
+				"Population": 16690
+			},
+			{
+				"CountyName": "Putnam",
+				"Population": 73525
+			},
+			{
+				"CountyName": "Rhea",
+				"Population": 32513
+			},
+			{
+				"CountyName": "Roane",
+				"Population": 53047
+			},
+			{
+				"CountyName": "Robertson",
+				"Population": 67383
+			},
+			{
+				"CountyName": "Rutherford",
+				"Population": 281029
+			},
+			{
+				"CountyName": "Scott",
+				"Population": 22015
+			},
+			{
+				"CountyName": "Sequatchie",
+				"Population": 14681
+			},
+			{
+				"CountyName": "Sevier",
+				"Population": 93570
+			},
+			{
+				"CountyName": "Shelby",
+				"Population": 939465
+			},
+			{
+				"CountyName": "Smith",
+				"Population": 19074
+			},
+			{
+				"CountyName": "Stewart",
+				"Population": 13362
+			},
+			{
+				"CountyName": "Sullivan",
+				"Population": 156595
+			},
+			{
+				"CountyName": "Sumner",
+				"Population": 168888
+			},
+			{
+				"CountyName": "Tipton",
+				"Population": 61586
+			},
+			{
+				"CountyName": "Trousdale",
+				"Population": 7828
+			},
+			{
+				"CountyName": "Unicoi",
+				"Population": 18082
+			},
+			{
+				"CountyName": "Union",
+				"Population": 19102
+			},
+			{
+				"CountyName": "Van Buren",
+				"Population": 5583
+			},
+			{
+				"CountyName": "Warren",
+				"Population": 39965
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 125546
+			},
+			{
+				"CountyName": "Wayne",
+				"Population": 16939
+			},
+			{
+				"CountyName": "Weakley",
+				"Population": 34450
+			},
+			{
+				"CountyName": "White",
+				"Population": 26244
+			},
+			{
+				"CountyName": "Williamson",
+				"Population": 198901
+			},
+			{
+				"CountyName": "Wilson",
+				"Population": 121945
+			}
+		]
 	},
 	{
 		"StateAbbr": "TX",
 		"StateName": "Texas",
 		"StateURL": "https://en.wikipedia.org/wiki/Texas",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Anderson",
+				"Population": 57938
+			},
+			{
+				"CountyName": "Andrews",
+				"Population": 16799
+			},
+			{
+				"CountyName": "Angelina",
+				"Population": 87441
+			},
+			{
+				"CountyName": "Aransas",
+				"Population": 24356
+			},
+			{
+				"CountyName": "Archer",
+				"Population": 8681
+			},
+			{
+				"CountyName": "Armstrong",
+				"Population": 1949
+			},
+			{
+				"CountyName": "Atascosa",
+				"Population": 47093
+			},
+			{
+				"CountyName": "Austin",
+				"Population": 28847
+			},
+			{
+				"CountyName": "Bailey",
+				"Population": 7114
+			},
+			{
+				"CountyName": "Bandera",
+				"Population": 20601
+			},
+			{
+				"CountyName": "Bastrop",
+				"Population": 75825
+			},
+			{
+				"CountyName": "Baylor",
+				"Population": 3614
+			},
+			{
+				"CountyName": "Bee",
+				"Population": 32799
+			},
+			{
+				"CountyName": "Bell",
+				"Population": 326843
+			},
+			{
+				"CountyName": "Bexar",
+				"Population": 1817610
+			},
+			{
+				"CountyName": "Blanco",
+				"Population": 10723
+			},
+			{
+				"CountyName": "Borden",
+				"Population": 637
+			},
+			{
+				"CountyName": "Bosque",
+				"Population": 17855
+			},
+			{
+				"CountyName": "Bowie",
+				"Population": 93487
+			},
+			{
+				"CountyName": "Brazoria",
+				"Population": 330242
+			},
+			{
+				"CountyName": "Brazos",
+				"Population": 203164
+			},
+			{
+				"CountyName": "Brewster",
+				"Population": 9286
+			},
+			{
+				"CountyName": "Briscoe",
+				"Population": 1537
+			},
+			{
+				"CountyName": "Brooks",
+				"Population": 7237
+			},
+			{
+				"CountyName": "Brown",
+				"Population": 37749
+			},
+			{
+				"CountyName": "Burleson",
+				"Population": 17169
+			},
+			{
+				"CountyName": "Burnet",
+				"Population": 43823
+			},
+			{
+				"CountyName": "Caldwell",
+				"Population": 39232
+			},
+			{
+				"CountyName": "Calhoun",
+				"Population": 21806
+			},
+			{
+				"CountyName": "Callahan",
+				"Population": 13525
+			},
+			{
+				"CountyName": "Cameron",
+				"Population": 417276
+			},
+			{
+				"CountyName": "Camp",
+				"Population": 12413
+			},
+			{
+				"CountyName": "Carson",
+				"Population": 6010
+			},
+			{
+				"CountyName": "Cass",
+				"Population": 30331
+			},
+			{
+				"CountyName": "Castro",
+				"Population": 8030
+			},
+			{
+				"CountyName": "Chambers",
+				"Population": 36812
+			},
+			{
+				"CountyName": "Cherokee",
+				"Population": 50878
+			},
+			{
+				"CountyName": "Childress",
+				"Population": 7095
+			},
+			{
+				"CountyName": "Clay",
+				"Population": 10473
+			},
+			{
+				"CountyName": "Cochran",
+				"Population": 3016
+			},
+			{
+				"CountyName": "Coke",
+				"Population": 3210
+			},
+			{
+				"CountyName": "Coleman",
+				"Population": 8543
+			},
+			{
+				"CountyName": "Collin",
+				"Population": 854778
+			},
+			{
+				"CountyName": "Collingsworth",
+				"Population": 3099
+			},
+			{
+				"CountyName": "Colorado",
+				"Population": 20752
+			},
+			{
+				"CountyName": "Comal",
+				"Population": 118480
+			},
+			{
+				"CountyName": "Comanche",
+				"Population": 13623
+			},
+			{
+				"CountyName": "Concho",
+				"Population": 4043
+			},
+			{
+				"CountyName": "Cooke",
+				"Population": 38467
+			},
+			{
+				"CountyName": "Coryell",
+				"Population": 76192
+			},
+			{
+				"CountyName": "Cottle",
+				"Population": 1452
+			},
+			{
+				"CountyName": "Crane",
+				"Population": 4773
+			},
+			{
+				"CountyName": "Crockett",
+				"Population": 3807
+			},
+			{
+				"CountyName": "Crosby",
+				"Population": 5991
+			},
+			{
+				"CountyName": "Culberson",
+				"Population": 2277
+			},
+			{
+				"CountyName": "Dallam",
+				"Population": 7057
+			},
+			{
+				"CountyName": "Dallas",
+				"Population": 2480331
+			},
+			{
+				"CountyName": "Dawson",
+				"Population": 13810
+			},
+			{
+				"CountyName": "Deaf Smith",
+				"Population": 19177
+			},
+			{
+				"CountyName": "Delta",
+				"Population": 5238
+			},
+			{
+				"CountyName": "Denton",
+				"Population": 728799
+			},
+			{
+				"CountyName": "DeWitt",
+				"Population": 20503
+			},
+			{
+				"CountyName": "Dickens",
+				"Population": 2291
+			},
+			{
+				"CountyName": "Dimmit",
+				"Population": 10897
+			},
+			{
+				"CountyName": "Donley",
+				"Population": 3522
+			},
+			{
+				"CountyName": "Duval",
+				"Population": 11640
+			},
+			{
+				"CountyName": "Eastland",
+				"Population": 18245
+			},
+			{
+				"CountyName": "Ector",
+				"Population": 149378
+			},
+			{
+				"CountyName": "Edwards",
+				"Population": 1884
+			},
+			{
+				"CountyName": "Ellis",
+				"Population": 155976
+			},
+			{
+				"CountyName": "El Paso",
+				"Population": 827718
+			},
+			{
+				"CountyName": "Erath",
+				"Population": 39658
+			},
+			{
+				"CountyName": "Falls",
+				"Population": 17493
+			},
+			{
+				"CountyName": "Fannin",
+				"Population": 33659
+			},
+			{
+				"CountyName": "Fayette",
+				"Population": 24821
+			},
+			{
+				"CountyName": "Fisher",
+				"Population": 3856
+			},
+			{
+				"CountyName": "Floyd",
+				"Population": 6230
+			},
+			{
+				"CountyName": "Foard",
+				"Population": 1277
+			},
+			{
+				"CountyName": "Fort Bend",
+				"Population": 652365
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 10660
+			},
+			{
+				"CountyName": "Freestone",
+				"Population": 19646
+			},
+			{
+				"CountyName": "Frio",
+				"Population": 18065
+			},
+			{
+				"CountyName": "Gaines",
+				"Population": 18921
+			},
+			{
+				"CountyName": "Galveston",
+				"Population": 306782
+			},
+			{
+				"CountyName": "Garza",
+				"Population": 6317
+			},
+			{
+				"CountyName": "Gillespie",
+				"Population": 25357
+			},
+			{
+				"CountyName": "Glasscock",
+				"Population": 1251
+			},
+			{
+				"CountyName": "Goliad",
+				"Population": 7465
+			},
+			{
+				"CountyName": "Gonzales",
+				"Population": 20312
+			},
+			{
+				"CountyName": "Gray",
+				"Population": 23043
+			},
+			{
+				"CountyName": "Grayson",
+				"Population": 122353
+			},
+			{
+				"CountyName": "Gregg",
+				"Population": 123024
+			},
+			{
+				"CountyName": "Grimes",
+				"Population": 26859
+			},
+			{
+				"CountyName": "Guadalupe",
+				"Population": 143183
+			},
+			{
+				"CountyName": "Hale",
+				"Population": 35764
+			},
+			{
+				"CountyName": "Hall",
+				"Population": 3239
+			},
+			{
+				"CountyName": "Hamilton",
+				"Population": 8310
+			},
+			{
+				"CountyName": "Hansford",
+				"Population": 5555
+			},
+			{
+				"CountyName": "Hardeman",
+				"Population": 4016
+			},
+			{
+				"CountyName": "Hardin",
+				"Population": 55417
+			},
+			{
+				"CountyName": "Harris",
+				"Population": 4336853
+			},
+			{
+				"CountyName": "Harrison",
+				"Population": 66886
+			},
+			{
+				"CountyName": "Hartley",
+				"Population": 6100
+			},
+			{
+				"CountyName": "Haskell",
+				"Population": 5875
+			},
+			{
+				"CountyName": "Hays",
+				"Population": 176026
+			},
+			{
+				"CountyName": "Hemphill",
+				"Population": 4158
+			},
+			{
+				"CountyName": "Henderson",
+				"Population": 78675
+			},
+			{
+				"CountyName": "Hidalgo",
+				"Population": 815996
+			},
+			{
+				"CountyName": "Hill",
+				"Population": 34823
+			},
+			{
+				"CountyName": "Hockley",
+				"Population": 23530
+			},
+			{
+				"CountyName": "Hood",
+				"Population": 52905
+			},
+			{
+				"CountyName": "Hopkins",
+				"Population": 35565
+			},
+			{
+				"CountyName": "Houston",
+				"Population": 22911
+			},
+			{
+				"CountyName": "Howard",
+				"Population": 36147
+			},
+			{
+				"CountyName": "Hudspeth",
+				"Population": 3318
+			},
+			{
+				"CountyName": "Hunt",
+				"Population": 87048
+			},
+			{
+				"CountyName": "Hutchinson",
+				"Population": 21819
+			},
+			{
+				"CountyName": "Irion",
+				"Population": 1612
+			},
+			{
+				"CountyName": "Jack",
+				"Population": 8957
+			},
+			{
+				"CountyName": "Jackson",
+				"Population": 14591
+			},
+			{
+				"CountyName": "Jasper",
+				"Population": 35649
+			},
+			{
+				"CountyName": "Jeff Davis",
+				"Population": 2253
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 252358
+			},
+			{
+				"CountyName": "Jim Hogg",
+				"Population": 5245
+			},
+			{
+				"CountyName": "Jim Wells",
+				"Population": 41680
+			},
+			{
+				"CountyName": "Johnson",
+				"Population": 154707
+			},
+			{
+				"CountyName": "Jones",
+				"Population": 19859
+			},
+			{
+				"CountyName": "Karnes",
+				"Population": 15081
+			},
+			{
+				"CountyName": "Kaufman",
+				"Population": 108568
+			},
+			{
+				"CountyName": "Kendall",
+				"Population": 37766
+			},
+			{
+				"CountyName": "Kenedy",
+				"Population": 412
+			},
+			{
+				"CountyName": "Kent",
+				"Population": 807
+			},
+			{
+				"CountyName": "Kerr",
+				"Population": 49953
+			},
+			{
+				"CountyName": "Kimble",
+				"Population": 4481
+			},
+			{
+				"CountyName": "King",
+				"Population": 285
+			},
+			{
+				"CountyName": "Kinney",
+				"Population": 3586
+			},
+			{
+				"CountyName": "Kleberg",
+				"Population": 32101
+			},
+			{
+				"CountyName": "Knox",
+				"Population": 3767
+			},
+			{
+				"CountyName": "Lamar",
+				"Population": 49426
+			},
+			{
+				"CountyName": "Lamb",
+				"Population": 13775
+			},
+			{
+				"CountyName": "Lampasas",
+				"Population": 20222
+			},
+			{
+				"CountyName": "La Salle",
+				"Population": 7369
+			},
+			{
+				"CountyName": "Lavaca",
+				"Population": 19581
+			},
+			{
+				"CountyName": "Lee",
+				"Population": 16628
+			},
+			{
+				"CountyName": "Leon",
+				"Population": 16742
+			},
+			{
+				"CountyName": "Liberty",
+				"Population": 76907
+			},
+			{
+				"CountyName": "Limestone",
+				"Population": 23326
+			},
+			{
+				"CountyName": "Lipscomb",
+				"Population": 3485
+			},
+			{
+				"CountyName": "Live Oak",
+				"Population": 11867
+			},
+			{
+				"CountyName": "Llano",
+				"Population": 19444
+			},
+			{
+				"CountyName": "Loving",
+				"Population": 95
+			},
+			{
+				"CountyName": "Lubbock",
+				"Population": 289324
+			},
+			{
+				"CountyName": "Lynn",
+				"Population": 5723
+			},
+			{
+				"CountyName": "McCulloch",
+				"Population": 8330
+			},
+			{
+				"CountyName": "McLennan",
+				"Population": 241481
+			},
+			{
+				"CountyName": "McMullen",
+				"Population": 764
+			},
+			{
+				"CountyName": "Madison",
+				"Population": 13781
+			},
+			{
+				"CountyName": "Marion",
+				"Population": 10235
+			},
+			{
+				"CountyName": "Martin",
+				"Population": 5312
+			},
+			{
+				"CountyName": "Mason",
+				"Population": 4128
+			},
+			{
+				"CountyName": "Matagorda",
+				"Population": 36592
+			},
+			{
+				"CountyName": "Maverick",
+				"Population": 55932
+			},
+			{
+				"CountyName": "Medina",
+				"Population": 47399
+			},
+			{
+				"CountyName": "Menard",
+				"Population": 2148
+			},
+			{
+				"CountyName": "Midland",
+				"Population": 151468
+			},
+			{
+				"CountyName": "Milam",
+				"Population": 24167
+			},
+			{
+				"CountyName": "Mills",
+				"Population": 4907
+			},
+			{
+				"CountyName": "Mitchell",
+				"Population": 9402
+			},
+			{
+				"CountyName": "Montague",
+				"Population": 19503
+			},
+			{
+				"CountyName": "Montgomery",
+				"Population": 499137
+			},
+			{
+				"CountyName": "Moore",
+				"Population": 22141
+			},
+			{
+				"CountyName": "Morris",
+				"Population": 12834
+			},
+			{
+				"CountyName": "Motley",
+				"Population": 1196
+			},
+			{
+				"CountyName": "Nacogdoches",
+				"Population": 65330
+			},
+			{
+				"CountyName": "Navarro",
+				"Population": 48038
+			},
+			{
+				"CountyName": "Newton",
+				"Population": 14140
+			},
+			{
+				"CountyName": "Nolan",
+				"Population": 15037
+			},
+			{
+				"CountyName": "Nueces",
+				"Population": 352107
+			},
+			{
+				"CountyName": "Ochiltree",
+				"Population": 10806
+			},
+			{
+				"CountyName": "Oldham",
+				"Population": 2102
+			},
+			{
+				"CountyName": "Orange",
+				"Population": 82957
+			},
+			{
+				"CountyName": "Palo Pinto",
+				"Population": 27889
+			},
+			{
+				"CountyName": "Panola",
+				"Population": 23870
+			},
+			{
+				"CountyName": "Parker",
+				"Population": 121418
+			},
+			{
+				"CountyName": "Parmer",
+				"Population": 9965
+			},
+			{
+				"CountyName": "Pecos",
+				"Population": 15697
+			},
+			{
+				"CountyName": "Polk",
+				"Population": 45790
+			},
+			{
+				"CountyName": "Potter",
+				"Population": 121661
+			},
+			{
+				"CountyName": "Presidio",
+				"Population": 7201
+			},
+			{
+				"CountyName": "Rains",
+				"Population": 11065
+			},
+			{
+				"CountyName": "Randall",
+				"Population": 126474
+			},
+			{
+				"CountyName": "Reagan",
+				"Population": 3601
+			},
+			{
+				"CountyName": "Real",
+				"Population": 3350
+			},
+			{
+				"CountyName": "Red River",
+				"Population": 12470
+			},
+			{
+				"CountyName": "Reeves",
+				"Population": 13965
+			},
+			{
+				"CountyName": "Refugio",
+				"Population": 7305
+			},
+			{
+				"CountyName": "Roberts",
+				"Population": 831
+			},
+			{
+				"CountyName": "Robertson",
+				"Population": 16486
+			},
+			{
+				"CountyName": "Rockwall",
+				"Population": 85245
+			},
+			{
+				"CountyName": "Runnels",
+				"Population": 10309
+			},
+			{
+				"CountyName": "Rusk",
+				"Population": 53622
+			},
+			{
+				"CountyName": "Sabine",
+				"Population": 10361
+			},
+			{
+				"CountyName": "San Augustine",
+				"Population": 8769
+			},
+			{
+				"CountyName": "San Jacinto",
+				"Population": 26856
+			},
+			{
+				"CountyName": "San Patricio",
+				"Population": 66137
+			},
+			{
+				"CountyName": "San Saba",
+				"Population": 6012
+			},
+			{
+				"CountyName": "Schleicher",
+				"Population": 3206
+			},
+			{
+				"CountyName": "Scurry",
+				"Population": 17302
+			},
+			{
+				"CountyName": "Shackelford",
+				"Population": 3375
+			},
+			{
+				"CountyName": "Shelby",
+				"Population": 25792
+			},
+			{
+				"CountyName": "Sherman",
+				"Population": 3093
+			},
+			{
+				"CountyName": "Smith",
+				"Population": 216080
+			},
+			{
+				"CountyName": "Somervell",
+				"Population": 8658
+			},
+			{
+				"CountyName": "Starr",
+				"Population": 61963
+			},
+			{
+				"CountyName": "Stephens",
+				"Population": 9247
+			},
+			{
+				"CountyName": "Sterling",
+				"Population": 1219
+			},
+			{
+				"CountyName": "Stonewall",
+				"Population": 1432
+			},
+			{
+				"CountyName": "Sutton",
+				"Population": 4006
+			},
+			{
+				"CountyName": "Swisher",
+				"Population": 7763
+			},
+			{
+				"CountyName": "Tarrant",
+				"Population": 1911541
+			},
+			{
+				"CountyName": "Taylor",
+				"Population": 134117
+			},
+			{
+				"CountyName": "Terrell",
+				"Population": 903
+			},
+			{
+				"CountyName": "Terry",
+				"Population": 12743
+			},
+			{
+				"CountyName": "Throckmorton",
+				"Population": 1600
+			},
+			{
+				"CountyName": "Titus",
+				"Population": 32581
+			},
+			{
+				"CountyName": "Tom Green",
+				"Population": 114954
+			},
+			{
+				"CountyName": "Travis",
+				"Population": 1120954
+			},
+			{
+				"CountyName": "Trinity",
+				"Population": 14393
+			},
+			{
+				"CountyName": "Tyler",
+				"Population": 21464
+			},
+			{
+				"CountyName": "Upshur",
+				"Population": 39884
+			},
+			{
+				"CountyName": "Upton",
+				"Population": 3372
+			},
+			{
+				"CountyName": "Uvalde",
+				"Population": 26926
+			},
+			{
+				"CountyName": "Val Verde",
+				"Population": 48623
+			},
+			{
+				"CountyName": "Van Zandt",
+				"Population": 52481
+			},
+			{
+				"CountyName": "Victoria",
+				"Population": 90028
+			},
+			{
+				"CountyName": "Walker",
+				"Population": 68817
+			},
+			{
+				"CountyName": "Waller",
+				"Population": 45213
+			},
+			{
+				"CountyName": "Ward",
+				"Population": 11244
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 34147
+			},
+			{
+				"CountyName": "Webb",
+				"Population": 262495
+			},
+			{
+				"CountyName": "Wharton",
+				"Population": 41216
+			},
+			{
+				"CountyName": "Wheeler",
+				"Population": 5751
+			},
+			{
+				"CountyName": "Wichita",
+				"Population": 132047
+			},
+			{
+				"CountyName": "Wilbarger",
+				"Population": 13131
+			},
+			{
+				"CountyName": "Willacy",
+				"Population": 21921
+			},
+			{
+				"CountyName": "Williamson",
+				"Population": 471014
+			},
+			{
+				"CountyName": "Wilson",
+				"Population": 45418
+			},
+			{
+				"CountyName": "Winkler",
+				"Population": 7606
+			},
+			{
+				"CountyName": "Wise",
+				"Population": 60939
+			},
+			{
+				"CountyName": "Wood",
+				"Population": 42306
+			},
+			{
+				"CountyName": "Yoakum",
+				"Population": 8184
+			},
+			{
+				"CountyName": "Young",
+				"Population": 18341
+			},
+			{
+				"CountyName": "Zapata",
+				"Population": 14390
+			},
+			{
+				"CountyName": "Zavala",
+				"Population": 12156
+			}
+		]
 	},
 	{
 		"StateAbbr": "UX",
 		"StateName": "U.S. Minor Outlying Islands",
 		"StateURL": "https://en.wikipedia.org/wiki/U.S. Minor Outlying Islands",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Bajo Nuevo Bank",
+				"Population": 0
+			},
+			{
+				"CountyName": "Baker Island[8]",
+				"Population": 0
+			},
+			{
+				"CountyName": "Howland Island",
+				"Population": 0
+			},
+			{
+				"CountyName": "Jarvis Island",
+				"Population": 0
+			},
+			{
+				"CountyName": "Johnston Atoll",
+				"Population": 0
+			},
+			{
+				"CountyName": "Kingman Reef",
+				"Population": 0
+			},
+			{
+				"CountyName": "Midway Islands",
+				"Population": 40
+			},
+			{
+				"CountyName": "Navassa Island",
+				"Population": 0
+			},
+			{
+				"CountyName": "Palmyra Atoll",
+				"Population": 20
+			},
+			{
+				"CountyName": "Serranilla Bank",
+				"Population": 0
+			},
+			{
+				"CountyName": "Wake Island",
+				"Population": 100
+			}
+		]
 	},
 	{
 		"StateAbbr": "UT",
 		"StateName": "Utah",
 		"StateURL": "https://en.wikipedia.org/wiki/Utah",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Beaver",
+				"Population": 6459
+			},
+			{
+				"CountyName": "Box Elder",
+				"Population": 50794
+			},
+			{
+				"CountyName": "Cache",
+				"Population": 116909
+			},
+			{
+				"CountyName": "Carbon",
+				"Population": 20988
+			},
+			{
+				"CountyName": "Daggett",
+				"Population": 1127
+			},
+			{
+				"CountyName": "Davis",
+				"Population": 322094
+			},
+			{
+				"CountyName": "Duchesne",
+				"Population": 20308
+			},
+			{
+				"CountyName": "Emery",
+				"Population": 10749
+			},
+			{
+				"CountyName": "Garfield",
+				"Population": 5083
+			},
+			{
+				"CountyName": "Grand",
+				"Population": 9360
+			},
+			{
+				"CountyName": "Iron",
+				"Population": 46780
+			},
+			{
+				"CountyName": "Juab",
+				"Population": 10348
+			},
+			{
+				"CountyName": "Kane",
+				"Population": 7260
+			},
+			{
+				"CountyName": "Millard",
+				"Population": 12662
+			},
+			{
+				"CountyName": "Morgan",
+				"Population": 10173
+			},
+			{
+				"CountyName": "Piute",
+				"Population": 1510
+			},
+			{
+				"CountyName": "Rich",
+				"Population": 2288
+			},
+			{
+				"CountyName": "Salt Lake",
+				"Population": 1079721
+			},
+			{
+				"CountyName": "San Juan",
+				"Population": 14973
+			},
+			{
+				"CountyName": "Sanpete",
+				"Population": 28237
+			},
+			{
+				"CountyName": "Sevier",
+				"Population": 20852
+			},
+			{
+				"CountyName": "Summit",
+				"Population": 38486
+			},
+			{
+				"CountyName": "Tooele",
+				"Population": 60762
+			},
+			{
+				"CountyName": "Uintah",
+				"Population": 35555
+			},
+			{
+				"CountyName": "Utah",
+				"Population": 551891
+			},
+			{
+				"CountyName": "Wasatch",
+				"Population": 26437
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 147800
+			},
+			{
+				"CountyName": "Wayne",
+				"Population": 2747
+			},
+			{
+				"CountyName": "Weber",
+				"Population": 238519
+			}
+		]
 	},
 	{
 		"StateAbbr": "VT",
 		"StateName": "Vermont",
 		"StateURL": "https://en.wikipedia.org/wiki/Vermont",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Addison",
+				"Population": 36791
+			},
+			{
+				"CountyName": "Bennington",
+				"Population": 36659
+			},
+			{
+				"CountyName": "Caledonia",
+				"Population": 31157
+			},
+			{
+				"CountyName": "Chittenden",
+				"Population": 159515
+			},
+			{
+				"CountyName": "Essex",
+				"Population": 6211
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 48294
+			},
+			{
+				"CountyName": "Grand Isle",
+				"Population": 6987
+			},
+			{
+				"CountyName": "Lamoille",
+				"Population": 25067
+			},
+			{
+				"CountyName": "Orange",
+				"Population": 28915
+			},
+			{
+				"CountyName": "Orleans",
+				"Population": 27169
+			},
+			{
+				"CountyName": "Rutland",
+				"Population": 60622
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 59319
+			},
+			{
+				"CountyName": "Windham",
+				"Population": 43857
+			},
+			{
+				"CountyName": "Windsor",
+				"Population": 56067
+			}
+		]
 	},
 	{
 		"StateAbbr": "VI",
 		"StateName": "Virgin Islands (U.S.)",
 		"StateURL": "https://en.wikipedia.org/wiki/Virgin Islands (U.S.)",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Saint Croix Island",
+				"Population": 50601
+			},
+			{
+				"CountyName": "Saint John Island",
+				"Population": 4170
+			},
+			{
+				"CountyName": "Saint Thomas Island",
+				"Population": 51634
+			}
+		]
 	},
 	{
 		"StateAbbr": "VA",
 		"StateName": "Virginia",
 		"StateURL": "https://en.wikipedia.org/wiki/Virginia",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Accomack",
+				"Population": 33148
+			},
+			{
+				"CountyName": "Albemarle",
+				"Population": 103000
+			},
+			{
+				"CountyName": "Alleghany",
+				"Population": 16161
+			},
+			{
+				"CountyName": "Amelia",
+				"Population": 12745
+			},
+			{
+				"CountyName": "Amherst",
+				"Population": 32178
+			},
+			{
+				"CountyName": "Appomattox",
+				"Population": 15255
+			},
+			{
+				"CountyName": "Arlington",
+				"Population": 224906
+			},
+			{
+				"CountyName": "Augusta",
+				"Population": 73912
+			},
+			{
+				"CountyName": "Bath",
+				"Population": 4616
+			},
+			{
+				"CountyName": "Bedford[z]",
+				"Population": 75773
+			},
+			{
+				"CountyName": "Bland",
+				"Population": 6735
+			},
+			{
+				"CountyName": "Botetourt",
+				"Population": 33002
+			},
+			{
+				"CountyName": "Brunswick",
+				"Population": 16973
+			},
+			{
+				"CountyName": "Buchanan",
+				"Population": 23597
+			},
+			{
+				"CountyName": "Buckingham",
+				"Population": 17136
+			},
+			{
+				"CountyName": "Campbell",
+				"Population": 55235
+			},
+			{
+				"CountyName": "Caroline",
+				"Population": 29298
+			},
+			{
+				"CountyName": "Carroll",
+				"Population": 29883
+			},
+			{
+				"CountyName": "Charles City",
+				"Population": 7130
+			},
+			{
+				"CountyName": "Charlotte",
+				"Population": 12305
+			},
+			{
+				"CountyName": "Chesterfield",
+				"Population": 327745
+			},
+			{
+				"CountyName": "Clarke",
+				"Population": 14348
+			},
+			{
+				"CountyName": "Craig",
+				"Population": 5210
+			},
+			{
+				"CountyName": "Culpeper",
+				"Population": 48506
+			},
+			{
+				"CountyName": "Cumberland",
+				"Population": 9841
+			},
+			{
+				"CountyName": "Dickenson",
+				"Population": 15486
+			},
+			{
+				"CountyName": "Dinwiddie",
+				"Population": 27904
+			},
+			{
+				"CountyName": "Essex",
+				"Population": 11229
+			},
+			{
+				"CountyName": "Fairfax",
+				"Population": 1130924
+			},
+			{
+				"CountyName": "Fauquier",
+				"Population": 67207
+			},
+			{
+				"CountyName": "Floyd",
+				"Population": 15528
+			},
+			{
+				"CountyName": "Fluvanna",
+				"Population": 25977
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 56335
+			},
+			{
+				"CountyName": "Frederick",
+				"Population": 81319
+			},
+			{
+				"CountyName": "Giles",
+				"Population": 16925
+			},
+			{
+				"CountyName": "Gloucester",
+				"Population": 36834
+			},
+			{
+				"CountyName": "Goochland",
+				"Population": 21626
+			},
+			{
+				"CountyName": "Grayson",
+				"Population": 15161
+			},
+			{
+				"CountyName": "Greene",
+				"Population": 18804
+			},
+			{
+				"CountyName": "Greensville",
+				"Population": 11886
+			},
+			{
+				"CountyName": "Halifax",
+				"Population": 35401
+			},
+			{
+				"CountyName": "Hanover",
+				"Population": 101330
+			},
+			{
+				"CountyName": "Henrico",
+				"Population": 318611
+			},
+			{
+				"CountyName": "Henry",
+				"Population": 52617
+			},
+			{
+				"CountyName": "Highland",
+				"Population": 2215
+			},
+			{
+				"CountyName": "Isle of Wight",
+				"Population": 35656
+			},
+			{
+				"CountyName": "James City",
+				"Population": 70516
+			},
+			{
+				"CountyName": "King and Queen",
+				"Population": 7130
+			},
+			{
+				"CountyName": "King George",
+				"Population": 24926
+			},
+			{
+				"CountyName": "King William",
+				"Population": 16097
+			},
+			{
+				"CountyName": "Lancaster",
+				"Population": 11148
+			},
+			{
+				"CountyName": "Lee",
+				"Population": 25185
+			},
+			{
+				"CountyName": "Loudoun",
+				"Population": 349679
+			},
+			{
+				"CountyName": "Louisa",
+				"Population": 33945
+			},
+			{
+				"CountyName": "Lunenburg",
+				"Population": 12527
+			},
+			{
+				"CountyName": "Madison",
+				"Population": 13200
+			},
+			{
+				"CountyName": "Mathews",
+				"Population": 8897
+			},
+			{
+				"CountyName": "Mecklenburg",
+				"Population": 31426
+			},
+			{
+				"CountyName": "Middlesex",
+				"Population": 10762
+			},
+			{
+				"CountyName": "Montgomery",
+				"Population": 96207
+			},
+			{
+				"CountyName": "Nelson",
+				"Population": 14789
+			},
+			{
+				"CountyName": "New Kent",
+				"Population": 19507
+			},
+			{
+				"CountyName": "Northampton",
+				"Population": 12125
+			},
+			{
+				"CountyName": "Northumberland",
+				"Population": 12200
+			},
+			{
+				"CountyName": "Nottoway",
+				"Population": 15773
+			},
+			{
+				"CountyName": "Orange",
+				"Population": 34689
+			},
+			{
+				"CountyName": "Page",
+				"Population": 23821
+			},
+			{
+				"CountyName": "Patrick",
+				"Population": 18368
+			},
+			{
+				"CountyName": "Pittsylvania",
+				"Population": 62426
+			},
+			{
+				"CountyName": "Powhatan",
+				"Population": 28259
+			},
+			{
+				"CountyName": "Prince Edward",
+				"Population": 22802
+			},
+			{
+				"CountyName": "Prince George",
+				"Population": 37253
+			},
+			{
+				"CountyName": "Prince William",
+				"Population": 438580
+			},
+			{
+				"CountyName": "Pulaski",
+				"Population": 34507
+			},
+			{
+				"CountyName": "Rappahannock",
+				"Population": 7478
+			},
+			{
+				"CountyName": "Richmond",
+				"Population": 8953
+			},
+			{
+				"CountyName": "Roanoke",
+				"Population": 93524
+			},
+			{
+				"CountyName": "Rockbridge",
+				"Population": 22307
+			},
+			{
+				"CountyName": "Rockingham",
+				"Population": 77741
+			},
+			{
+				"CountyName": "Russell",
+				"Population": 28264
+			},
+			{
+				"CountyName": "Scott",
+				"Population": 22640
+			},
+			{
+				"CountyName": "Shenandoah",
+				"Population": 42684
+			},
+			{
+				"CountyName": "Smyth",
+				"Population": 31652
+			},
+			{
+				"CountyName": "Southampton",
+				"Population": 18128
+			},
+			{
+				"CountyName": "Spotsylvania",
+				"Population": 127348
+			},
+			{
+				"CountyName": "Stafford",
+				"Population": 136788
+			},
+			{
+				"CountyName": "Surry",
+				"Population": 6765
+			},
+			{
+				"CountyName": "Sussex",
+				"Population": 11810
+			},
+			{
+				"CountyName": "Tazewell",
+				"Population": 44103
+			},
+			{
+				"CountyName": "Warren",
+				"Population": 38699
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 54907
+			},
+			{
+				"CountyName": "Westmoreland",
+				"Population": 17612
+			},
+			{
+				"CountyName": "Wise",
+				"Population": 40589
+			},
+			{
+				"CountyName": "Wythe",
+				"Population": 29344
+			},
+			{
+				"CountyName": "York",
+				"Population": 66269
+			},
+			{
+				"CountyName": "Alexandria, City of",
+				"Population": 148892
+			},
+			{
+				"CountyName": "Bristol, City of",
+				"Population": 17341
+			},
+			{
+				"CountyName": "Buena Vista, City of",
+				"Population": 6680
+			},
+			{
+				"CountyName": "Charlottesville, City of",
+				"Population": 44349
+			},
+			{
+				"CountyName": "Chesapeake, City of",
+				"Population": 230571
+			},
+			{
+				"CountyName": "Colonial Heights, City of",
+				"Population": 17634
+			},
+			{
+				"CountyName": "Covington, City of",
+				"Population": 5818
+			},
+			{
+				"CountyName": "Danville, City of",
+				"Population": 42907
+			},
+			{
+				"CountyName": "Emporia, City of",
+				"Population": 5588
+			},
+			{
+				"CountyName": "Fairfax, City of",
+				"Population": 23973
+			},
+			{
+				"CountyName": "Falls Church, City of",
+				"Population": 13508
+			},
+			{
+				"CountyName": "Franklin, City of",
+				"Population": 8638
+			},
+			{
+				"CountyName": "Fredericksburg, City of",
+				"Population": 28132
+			},
+			{
+				"CountyName": "Galax, City of",
+				"Population": 7035
+			},
+			{
+				"CountyName": "Hampton, City of",
+				"Population": 136699
+			},
+			{
+				"CountyName": "Harrisonburg, City of",
+				"Population": 51395
+			},
+			{
+				"CountyName": "Hopewell, City of",
+				"Population": 22163
+			},
+			{
+				"CountyName": "Lexington, City of",
+				"Population": 7170
+			},
+			{
+				"CountyName": "Lynchburg, City of",
+				"Population": 78014
+			},
+			{
+				"CountyName": "Manassas, City of",
+				"Population": 41705
+			},
+			{
+				"CountyName": "Manassas Park, City of",
+				"Population": 16149
+			},
+			{
+				"CountyName": "Martinsville, City of",
+				"Population": 13755
+			},
+			{
+				"CountyName": "Newport News, City of",
+				"Population": 182020
+			},
+			{
+				"CountyName": "Norfolk, City of",
+				"Population": 246139
+			},
+			{
+				"CountyName": "Norton, City of",
+				"Population": 4017
+			},
+			{
+				"CountyName": "Petersburg, City of",
+				"Population": 32538
+			},
+			{
+				"CountyName": "Poquoson, City of",
+				"Population": 12104
+			},
+			{
+				"CountyName": "Portsmouth, City of",
+				"Population": 96205
+			},
+			{
+				"CountyName": "Radford, City of",
+				"Population": 17184
+			},
+			{
+				"CountyName": "Richmond, City of",
+				"Population": 214114
+			},
+			{
+				"CountyName": "Roanoke, City of",
+				"Population": 98465
+			},
+			{
+				"CountyName": "Salem, City of",
+				"Population": 25299
+			},
+			{
+				"CountyName": "Staunton, City of",
+				"Population": 24350
+			},
+			{
+				"CountyName": "Suffolk, City of",
+				"Population": 85728
+			},
+			{
+				"CountyName": "Virginia Beach, City of",
+				"Population": 448479
+			},
+			{
+				"CountyName": "Waynesboro, City of",
+				"Population": 21263
+			},
+			{
+				"CountyName": "Williamsburg, City of",
+				"Population": 15206
+			},
+			{
+				"CountyName": "Winchester, City of",
+				"Population": 27216
+			}
+		]
 	},
 	{
 		"StateAbbr": "WA",
 		"StateName": "Washington",
 		"StateURL": "https://en.wikipedia.org/wiki/Washington",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Adams",
+				"Population": 19067
+			},
+			{
+				"CountyName": "Asotin",
+				"Population": 22110
+			},
+			{
+				"CountyName": "Benton",
+				"Population": 184486
+			},
+			{
+				"CountyName": "Chelan",
+				"Population": 73967
+			},
+			{
+				"CountyName": "Clallam",
+				"Population": 72312
+			},
+			{
+				"CountyName": "Clark",
+				"Population": 443817
+			},
+			{
+				"CountyName": "Columbia",
+				"Population": 4032
+			},
+			{
+				"CountyName": "Cowlitz",
+				"Population": 101860
+			},
+			{
+				"CountyName": "Douglas",
+				"Population": 39471
+			},
+			{
+				"CountyName": "Ferry",
+				"Population": 7646
+			},
+			{
+				"CountyName": "Franklin",
+				"Population": 86638
+			},
+			{
+				"CountyName": "Garfield",
+				"Population": 2256
+			},
+			{
+				"CountyName": "Grant",
+				"Population": 91878
+			},
+			{
+				"CountyName": "Grays Harbor",
+				"Population": 71078
+			},
+			{
+				"CountyName": "Island",
+				"Population": 78801
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 30076
+			},
+			{
+				"CountyName": "King",
+				"Population": 2044449
+			},
+			{
+				"CountyName": "Kitsap",
+				"Population": 253968
+			},
+			{
+				"CountyName": "Kittitas",
+				"Population": 41765
+			},
+			{
+				"CountyName": "Klickitat",
+				"Population": 20866
+			},
+			{
+				"CountyName": "Lewis",
+				"Population": 75081
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 10301
+			},
+			{
+				"CountyName": "Mason",
+				"Population": 60497
+			},
+			{
+				"CountyName": "Okanogan",
+				"Population": 41193
+			},
+			{
+				"CountyName": "Pacific",
+				"Population": 20498
+			},
+			{
+				"CountyName": "Pend Oreille",
+				"Population": 12896
+			},
+			{
+				"CountyName": "Pierce",
+				"Population": 819743
+			},
+			{
+				"CountyName": "San Juan",
+				"Population": 15875
+			},
+			{
+				"CountyName": "Skagit",
+				"Population": 118837
+			},
+			{
+				"CountyName": "Skamania",
+				"Population": 11274
+			},
+			{
+				"CountyName": "Snohomish",
+				"Population": 745913
+			},
+			{
+				"CountyName": "Spokane",
+				"Population": 479398
+			},
+			{
+				"CountyName": "Stevens",
+				"Population": 43430
+			},
+			{
+				"CountyName": "Thurston",
+				"Population": 262388
+			},
+			{
+				"CountyName": "Wahkiakum",
+				"Population": 4042
+			},
+			{
+				"CountyName": "Walla Walla",
+				"Population": 59530
+			},
+			{
+				"CountyName": "Whatcom",
+				"Population": 206353
+			},
+			{
+				"CountyName": "Whitman",
+				"Population": 46570
+			},
+			{
+				"CountyName": "Yakima",
+				"Population": 247044
+			}
+		]
 	},
 	{
 		"StateAbbr": "WV",
 		"StateName": "West Virginia",
 		"StateURL": "https://en.wikipedia.org/wiki/WestVirginia",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Barbour",
+				"Population": 16770
+			},
+			{
+				"CountyName": "Berkeley",
+				"Population": 108706
+			},
+			{
+				"CountyName": "Boone",
+				"Population": 24224
+			},
+			{
+				"CountyName": "Braxton",
+				"Population": 14502
+			},
+			{
+				"CountyName": "Brooke",
+				"Population": 23737
+			},
+			{
+				"CountyName": "Cabell",
+				"Population": 97133
+			},
+			{
+				"CountyName": "Calhoun",
+				"Population": 7564
+			},
+			{
+				"CountyName": "Clay",
+				"Population": 9244
+			},
+			{
+				"CountyName": "Doddridge",
+				"Population": 8344
+			},
+			{
+				"CountyName": "Fayette",
+				"Population": 45599
+			},
+			{
+				"CountyName": "Gilmer",
+				"Population": 8672
+			},
+			{
+				"CountyName": "Grant",
+				"Population": 11759
+			},
+			{
+				"CountyName": "Greenbrier",
+				"Population": 35644
+			},
+			{
+				"CountyName": "Hampshire",
+				"Population": 23445
+			},
+			{
+				"CountyName": "Hancock",
+				"Population": 30291
+			},
+			{
+				"CountyName": "Hardy",
+				"Population": 13920
+			},
+			{
+				"CountyName": "Harrison",
+				"Population": 68972
+			},
+			{
+				"CountyName": "Jackson",
+				"Population": 29178
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 55073
+			},
+			{
+				"CountyName": "Kanawha",
+				"Population": 191275
+			},
+			{
+				"CountyName": "Lewis",
+				"Population": 16452
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 21559
+			},
+			{
+				"CountyName": "Logan",
+				"Population": 35987
+			},
+			{
+				"CountyName": "McDowell",
+				"Population": 20876
+			},
+			{
+				"CountyName": "Marion",
+				"Population": 56868
+			},
+			{
+				"CountyName": "Marshall",
+				"Population": 32459
+			},
+			{
+				"CountyName": "Mason",
+				"Population": 27126
+			},
+			{
+				"CountyName": "Mercer",
+				"Population": 61984
+			},
+			{
+				"CountyName": "Mineral",
+				"Population": 27704
+			},
+			{
+				"CountyName": "Mingo",
+				"Population": 25900
+			},
+			{
+				"CountyName": "Monongalia",
+				"Population": 102274
+			},
+			{
+				"CountyName": "Monroe",
+				"Population": 13483
+			},
+			{
+				"CountyName": "Morgan",
+				"Population": 17498
+			},
+			{
+				"CountyName": "Nicholas",
+				"Population": 25965
+			},
+			{
+				"CountyName": "Ohio",
+				"Population": 43727
+			},
+			{
+				"CountyName": "Pendleton",
+				"Population": 7471
+			},
+			{
+				"CountyName": "Pleasants",
+				"Population": 7577
+			},
+			{
+				"CountyName": "Pocahontas",
+				"Population": 8669
+			},
+			{
+				"CountyName": "Preston",
+				"Population": 33859
+			},
+			{
+				"CountyName": "Putnam",
+				"Population": 56650
+			},
+			{
+				"CountyName": "Raleigh",
+				"Population": 78833
+			},
+			{
+				"CountyName": "Randolph",
+				"Population": 29415
+			},
+			{
+				"CountyName": "Ritchie",
+				"Population": 10073
+			},
+			{
+				"CountyName": "Roane",
+				"Population": 14656
+			},
+			{
+				"CountyName": "Summers",
+				"Population": 13563
+			},
+			{
+				"CountyName": "Taylor",
+				"Population": 16973
+			},
+			{
+				"CountyName": "Tucker",
+				"Population": 6968
+			},
+			{
+				"CountyName": "Tyler",
+				"Population": 8995
+			},
+			{
+				"CountyName": "Upshur",
+				"Population": 24665
+			},
+			{
+				"CountyName": "Wayne",
+				"Population": 41437
+			},
+			{
+				"CountyName": "Webster",
+				"Population": 8893
+			},
+			{
+				"CountyName": "Wetzel",
+				"Population": 16204
+			},
+			{
+				"CountyName": "Wirt",
+				"Population": 5901
+			},
+			{
+				"CountyName": "Wood",
+				"Population": 86569
+			},
+			{
+				"CountyName": "Wyoming",
+				"Population": 23019
+			}
+		]
 	},
 	{
 		"StateAbbr": "WI",
 		"StateName": "Wisconsin",
 		"StateURL": "https://en.wikipedia.org/wiki/Wisconsin",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Adams",
+				"Population": 20480
+			},
+			{
+				"CountyName": "Ashland",
+				"Population": 16016
+			},
+			{
+				"CountyName": "Barron",
+				"Population": 45676
+			},
+			{
+				"CountyName": "Bayfield",
+				"Population": 15156
+			},
+			{
+				"CountyName": "Brown",
+				"Population": 254586
+			},
+			{
+				"CountyName": "Buffalo",
+				"Population": 13357
+			},
+			{
+				"CountyName": "Burnett",
+				"Population": 15333
+			},
+			{
+				"CountyName": "Calumet",
+				"Population": 49617
+			},
+			{
+				"CountyName": "Chippewa",
+				"Population": 63132
+			},
+			{
+				"CountyName": "Clark",
+				"Population": 34615
+			},
+			{
+				"CountyName": "Columbia",
+				"Population": 56653
+			},
+			{
+				"CountyName": "Crawford",
+				"Population": 16397
+			},
+			{
+				"CountyName": "Dane",
+				"Population": 509939
+			},
+			{
+				"CountyName": "Dodge",
+				"Population": 88344
+			},
+			{
+				"CountyName": "Door",
+				"Population": 27896
+			},
+			{
+				"CountyName": "Douglas",
+				"Population": 43887
+			},
+			{
+				"CountyName": "Dunn",
+				"Population": 44122
+			},
+			{
+				"CountyName": "Eau Claire",
+				"Population": 101438
+			},
+			{
+				"CountyName": "Florence",
+				"Population": 4520
+			},
+			{
+				"CountyName": "Fond du Lac",
+				"Population": 101798
+			},
+			{
+				"CountyName": "Forest",
+				"Population": 9126
+			},
+			{
+				"CountyName": "Grant",
+				"Population": 51069
+			},
+			{
+				"CountyName": "Green",
+				"Population": 37090
+			},
+			{
+				"CountyName": "Green Lake",
+				"Population": 18959
+			},
+			{
+				"CountyName": "Iowa",
+				"Population": 23749
+			},
+			{
+				"CountyName": "Iron",
+				"Population": 5886
+			},
+			{
+				"CountyName": "Jackson",
+				"Population": 20644
+			},
+			{
+				"CountyName": "Jefferson",
+				"Population": 84509
+			},
+			{
+				"CountyName": "Juneau",
+				"Population": 26547
+			},
+			{
+				"CountyName": "Kenosha",
+				"Population": 167757
+			},
+			{
+				"CountyName": "Kewaunee",
+				"Population": 20505
+			},
+			{
+				"CountyName": "La Crosse",
+				"Population": 116713
+			},
+			{
+				"CountyName": "Lafayette",
+				"Population": 16766
+			},
+			{
+				"CountyName": "Langlade",
+				"Population": 19575
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 28684
+			},
+			{
+				"CountyName": "Manitowoc",
+				"Population": 80654
+			},
+			{
+				"CountyName": "Marathon",
+				"Population": 135416
+			},
+			{
+				"CountyName": "Marinette",
+				"Population": 41610
+			},
+			{
+				"CountyName": "Marquette",
+				"Population": 15176
+			},
+			{
+				"CountyName": "Menominee",
+				"Population": 4317
+			},
+			{
+				"CountyName": "Milwaukee",
+				"Population": 956023
+			},
+			{
+				"CountyName": "Monroe",
+				"Population": 45298
+			},
+			{
+				"CountyName": "Oconto",
+				"Population": 37318
+			},
+			{
+				"CountyName": "Oneida",
+				"Population": 35689
+			},
+			{
+				"CountyName": "Outagamie",
+				"Population": 180345
+			},
+			{
+				"CountyName": "Ozaukee",
+				"Population": 87054
+			},
+			{
+				"CountyName": "Pepin",
+				"Population": 7360
+			},
+			{
+				"CountyName": "Pierce",
+				"Population": 40976
+			},
+			{
+				"CountyName": "Polk",
+				"Population": 43476
+			},
+			{
+				"CountyName": "Portage",
+				"Population": 70380
+			},
+			{
+				"CountyName": "Price",
+				"Population": 13802
+			},
+			{
+				"CountyName": "Racine",
+				"Population": 195041
+			},
+			{
+				"CountyName": "Richland",
+				"Population": 17717
+			},
+			{
+				"CountyName": "Rock",
+				"Population": 160739
+			},
+			{
+				"CountyName": "Rusk",
+				"Population": 14395
+			},
+			{
+				"CountyName": "St. Croix",
+				"Population": 85930
+			},
+			{
+				"CountyName": "Sauk",
+				"Population": 63162
+			},
+			{
+				"CountyName": "Sawyer",
+				"Population": 16513
+			},
+			{
+				"CountyName": "Shawano",
+				"Population": 41643
+			},
+			{
+				"CountyName": "Sheboygan",
+				"Population": 114922
+			},
+			{
+				"CountyName": "Taylor",
+				"Population": 20610
+			},
+			{
+				"CountyName": "Trempealeau",
+				"Population": 29582
+			},
+			{
+				"CountyName": "Vernon",
+				"Population": 30329
+			},
+			{
+				"CountyName": "Vilas",
+				"Population": 21368
+			},
+			{
+				"CountyName": "Walworth",
+				"Population": 102945
+			},
+			{
+				"CountyName": "Washburn",
+				"Population": 15686
+			},
+			{
+				"CountyName": "Washington",
+				"Population": 132739
+			},
+			{
+				"CountyName": "Waukesha",
+				"Population": 393843
+			},
+			{
+				"CountyName": "Waupaca",
+				"Population": 52285
+			},
+			{
+				"CountyName": "Waushara",
+				"Population": 24329
+			},
+			{
+				"CountyName": "Winnebago",
+				"Population": 169541
+			},
+			{
+				"CountyName": "Wood",
+				"Population": 73959
+			}
+		]
 	},
 	{
 		"StateAbbr": "WY",
 		"StateName": "Wyoming",
 		"StateURL": "https://en.wikipedia.org/wiki/Wyoming",
-		"Counties": null
+		"Counties": [
+			{
+				"CountyName": "Albany",
+				"Population": 37422
+			},
+			{
+				"CountyName": "Big Horn",
+				"Population": 11994
+			},
+			{
+				"CountyName": "Campbell",
+				"Population": 48176
+			},
+			{
+				"CountyName": "Carbon",
+				"Population": 15748
+			},
+			{
+				"CountyName": "Converse",
+				"Population": 14313
+			},
+			{
+				"CountyName": "Crook",
+				"Population": 7184
+			},
+			{
+				"CountyName": "Fremont",
+				"Population": 40998
+			},
+			{
+				"CountyName": "Goshen",
+				"Population": 13612
+			},
+			{
+				"CountyName": "Hot Springs",
+				"Population": 4847
+			},
+			{
+				"CountyName": "Johnson",
+				"Population": 8628
+			},
+			{
+				"CountyName": "Laramie",
+				"Population": 95809
+			},
+			{
+				"CountyName": "Lincoln",
+				"Population": 18364
+			},
+			{
+				"CountyName": "Natrona",
+				"Population": 80973
+			},
+			{
+				"CountyName": "Niobrara",
+				"Population": 2541
+			},
+			{
+				"CountyName": "Park",
+				"Population": 29227
+			},
+			{
+				"CountyName": "Platte",
+				"Population": 8765
+			},
+			{
+				"CountyName": "Sheridan",
+				"Population": 29824
+			},
+			{
+				"CountyName": "Sublette",
+				"Population": 10041
+			},
+			{
+				"CountyName": "Sweetwater",
+				"Population": 45237
+			},
+			{
+				"CountyName": "Teton",
+				"Population": 22268
+			},
+			{
+				"CountyName": "Uinta",
+				"Population": 21066
+			},
+			{
+				"CountyName": "Washakie",
+				"Population": 8463
+			},
+			{
+				"CountyName": "Weston",
+				"Population": 7158
+			}
+		]
 	}
 ]
