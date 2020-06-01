@@ -6614,5 +6614,179 @@
 				"Population": 318416
 			}
 		]
+	},
+	{
+		"StateAbbr": "MT",
+		"StateName": "Montana",
+		"StateURL": "https://en.wikipedia.org/wiki/Montana",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "NE",
+		"StateName": "Nebraska",
+		"StateURL": "https://en.wikipedia.org/wiki/Nebraska",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "NV",
+		"StateName": "Nevada",
+		"StateURL": "https://en.wikipedia.org/wiki/Nevada",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "NH",
+		"StateName": "New Hampshire",
+		"StateURL": "https://en.wikipedia.org/wiki/NewHampshire",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "NJ",
+		"StateName": "New Jersey",
+		"StateURL": "https://en.wikipedia.org/wiki/NewJersey",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "NM",
+		"StateName": "New Mexico",
+		"StateURL": "https://en.wikipedia.org/wiki/NewMexico",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "NY",
+		"StateName": "New York",
+		"StateURL": "https://en.wikipedia.org/wiki/NewYork",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "NC",
+		"StateName": "North Carolina",
+		"StateURL": "https://en.wikipedia.org/wiki/NorthCarolina",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "ND",
+		"StateName": "North Dakota",
+		"StateURL": "https://en.wikipedia.org/wiki/NorthDakota",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "MP",
+		"StateName": "Northern Mariana Islands",
+		"StateURL": "https://en.wikipedia.org/wiki/NorthernMarianaIslands",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "OH",
+		"StateName": "Ohio",
+		"StateURL": "https://en.wikipedia.org/wiki/Ohio",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "OK",
+		"StateName": "Oklahoma",
+		"StateURL": "https://en.wikipedia.org/wiki/Oklahoma",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "OR",
+		"StateName": "Oregon",
+		"StateURL": "https://en.wikipedia.org/wiki/Oregon",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "PA",
+		"StateName": "Pennsylvania",
+		"StateURL": "https://en.wikipedia.org/wiki/Pennsylvania",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "PR",
+		"StateName": "Puerto Rico",
+		"StateURL": "https://en.wikipedia.org/wiki/PuertoRico",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "RI",
+		"StateName": "Rhode Island",
+		"StateURL": "https://en.wikipedia.org/wiki/RhodeIsland",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "SC",
+		"StateName": "South Carolina",
+		"StateURL": "https://en.wikipedia.org/wiki/SouthCarolina",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "SD",
+		"StateName": "South Dakota",
+		"StateURL": "https://en.wikipedia.org/wiki/SouthDakota",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "TN",
+		"StateName": "Tennessee",
+		"StateURL": "https://en.wikipedia.org/wiki/Tennessee",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "TX",
+		"StateName": "Texas",
+		"StateURL": "https://en.wikipedia.org/wiki/Texas",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "UX",
+		"StateName": "U.S. Minor Outlying Islands",
+		"StateURL": "https://en.wikipedia.org/wiki/U.S. Minor Outlying Islands",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "UT",
+		"StateName": "Utah",
+		"StateURL": "https://en.wikipedia.org/wiki/Utah",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "VT",
+		"StateName": "Vermont",
+		"StateURL": "https://en.wikipedia.org/wiki/Vermont",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "VI",
+		"StateName": "Virgin Islands (U.S.)",
+		"StateURL": "https://en.wikipedia.org/wiki/Virgin Islands (U.S.)",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "VA",
+		"StateName": "Virginia",
+		"StateURL": "https://en.wikipedia.org/wiki/Virginia",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "WA",
+		"StateName": "Washington",
+		"StateURL": "https://en.wikipedia.org/wiki/Washington",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "WV",
+		"StateName": "West Virginia",
+		"StateURL": "https://en.wikipedia.org/wiki/WestVirginia",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "WI",
+		"StateName": "Wisconsin",
+		"StateURL": "https://en.wikipedia.org/wiki/Wisconsin",
+		"Counties": null
+	},
+	{
+		"StateAbbr": "WY",
+		"StateName": "Wyoming",
+		"StateURL": "https://en.wikipedia.org/wiki/Wyoming",
+		"Counties": null
 	}
-	]
+]
