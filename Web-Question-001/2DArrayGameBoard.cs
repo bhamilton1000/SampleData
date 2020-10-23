@@ -1,4 +1,4 @@
-	char[,] gameBoard = new char[,] {
+	private char[,] gameBoard = new char[,] {
 		{ 'S', ' ', 'X', 'X', 'X', 'X' },
 		{ 'X', ' ', 'X', 'X', 'X', 'X' },
 		{ 'X', ' ', ' ', ' ', 'X', 'X' },
