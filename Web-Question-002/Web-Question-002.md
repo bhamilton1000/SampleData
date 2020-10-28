@@ -13,7 +13,7 @@
     The list filters matching state names when the user types.  
     There are options to filter on "contains" and "starts with."
     Use this data as the source.  You must pull this asychronusly.  https://bhamilton1000.github.io/SampleData/Web-Question-001/UnitedStatesWithCounties.json
-    Refer to the image "StatesTypeAhead.PNG" for a wireframe of the UI.
+    Refer to the image https://bhamilton1000.github.io/SampleData/Web-Question-002/StatesTypeAhead.PNG for a wireframe of the UI.
     
 	> NOTE:	(1) What happens if there are many results?  What happens if there are no results?
           	(2) Display matters, make it look nice and as you would implement for a real project
@@ -21,7 +21,7 @@
 2.  Create a **very simple** React app which will collect information on tasks and present a prioritized list.
 	Build the form.
 	Display the list.
-	Refer to the image "TaskListApp.png" for a wireframe of the UI.
+	Refer to the image https://bhamilton1000.github.io/SampleData/Web-Question-002/TaskListApp.PNG for a wireframe of the UI.
 	
 	> NOTE:	(1) What happens if there are many results?  What happens if there are no results?
 		(2) Display matters, make it look nice and as you would implement for a real project
