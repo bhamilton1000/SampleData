@@ -1,5 +1,12 @@
 # Web-Question-001
 
+## Instructions
+---
+1.  Please read the questions carefully.  Ask clarifying questions to the talent acquisition personnel you are in communication with.
+2.  Using either JS Fiddle (https://jsfiddle.net/) or .NET Fiddle (https://dotnetfiddle.net/), log in, create new branch, and answer the questions in code.
+3.  Carefully review your code before submitting.  Make sure the code runs and outputs the desired results.
+4.  Submit the URL back to the talent acquisition personnel.
+
 ## EASY
 ---
 1.  Given an array of integers, find the best series of 3 within the array.  Return the index of the starting position and the sum of the qualifying elements.
