@@ -15,8 +15,11 @@
     Use this data as the source.  You must pull this asychronusly.  https://bhamilton1000.github.io/SampleData/Web-Question-001/UnitedStatesWithCounties.json
     Refer to the image https://bhamilton1000.github.io/SampleData/Web-Question-002/StatesTypeAhead.PNG for a wireframe of the UI.
     
-	> NOTE:	(1) What happens if there are many results?  What happens if there are no results?
-          	(2) Display matters, make it look nice and as you would implement for a real project
+	> NOTE:	(1) What happens if there are many results?  
+		(2) What happens if there are no results?
+          	(3) Display matters, make it look nice and as you would implement for a real project
+		(4) Be sure to code for capital letters and lower-case letters as the same
+		(5) Be sure to code for accents correctly
 
 2.  Create a **very simple** React app which will collect information on tasks and present a prioritized list.
 	Build the form.
